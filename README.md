@@ -9,11 +9,33 @@ This definition has been translated into a **9-indicator standard** which we hop
 
 This standard was developed from the original 51 indicator standard used by the Alliance in the preliminary review of [Early Grade Reading](https://digitalpublicgoods.net/blog/announcing-the-first-vetted-digital-public-goods-for-foundational-literacy-and-early-grade-reading/) projects and refined through the contributions of many experts and diverse stakeholders.
 
-## Current Version
+## 🔎 Current Version
 
 [The Standard](standard.md) is currently at version 1.0, published on Sept. 15, 2020.
 
-## License
+## 🤗 Code of Conduct
+
+The Digital Public Goods Alliance is dedicated to building a welcoming, diverse and safe community. We expect everyone participating in the Digital Public Goods Alliance community to abide by our [**Code of Conduct**](CODE_OF_CONDUCT.md). Please read it. Please follow it. In the Digital Public Goods Alliance, we work hard to build each other up and create amazing things together. 💪💜
+
+## 👍 Acknowledgements
+
+Thank you to the following individuals and organizations for their contribution to version 1.0:
+
+**Individuals** (sorted alphabetically by last name)
+
+* Matt Germonrez ([@germonprez](https://github.com/germonprez)) - Professor, College of Information Science & Technology at University of Nebraska at Omaha
+* Sean P. Goggins ([@sgoggins](https://github.com/sgoggins)) - Professor, College of Engineering at University of Missouri
+* Georg J.P. Link ([@GeorgLink](https://github.com/GeorgLink)) - Open Source Strategist
+* Jon Lloyd, Director of Campaigns at Mozilla Foundation
+* Don Marti
+
+As well as to the participants of the Early Grade Reading Community of Practice
+
+**Organizations**
+
+UNICEF, Norway, iSPIRT, Sierra Leone and the DPG Alliance Secretariat. 
+
+## :memo: License
 
 This repository is primarily content, and it is licensed under a [Creative Commons Atribution ShareAlike 4.0 International License](LICENSE).
 
