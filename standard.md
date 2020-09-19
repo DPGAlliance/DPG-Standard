@@ -1,0 +1,23 @@
+# Digital Public Goods Standard
+
+* **Version**: 1.0
+* **Publication Date**: Sept. 15, 2020
+
+
+Indicator |	Requirement
+--- | ---
+**1. Relevance to Sustainable Development Goals** |	All projects must indicate the SDG(s) that they are relevant to and provide supporting links/documentation to support this relevance. 
+**2. Use of approved open source license** |	Projects must demonstrate the use of an approved open source license. For Open Source Software, we only accept OSI approved licenses. For Open Content we require the use of a Creative Commons license. While we encourage projects to use a license which allows for both derivatives and commercial reuse or dedicate content to the public domain (CC0) we also accept the following licenses which do not allow for commercial reuse: CC-BY-NC and CC-BY-NC-SA. For data we require a Open Data Commons approved license listed at opendefinition.org/licenses.
+**3. Documentation of ownership** |	Ownership of everything that the project produces must be clearly defined and documented i.e. through copyright, trademark or other publicly available information.
+**4. Mandatory dependencies** |	If the open source project has mandatory dependencies that create more restrictions than the original license the projects must be able to demonstrate independence from the closed component and/or indicate the existence of functional, open alternatives.
+**5. Documentation** |	The project must have some documentation of the source code, use cases, and/or functional requirements. For content, this should indicate any relevant compatible apps, software, hardware required to access the content and instructions about how to use it. For software projects, this should be present as technical documentation that would allow a technical person unfamiliar with the project to  launch and run the software. For data projects, this should be present as documentation that describes all the fields in the set, and provides context on how the data was collected and how it should be interpreted.
+**6. Mechanism for Extracting Data** |	If this project has non personally identifiable information there must be a mechanism for extracting or importing non personally identifiable information (PII) data from the system in a non-proprietary format.
+**7. Adherence to privacy and applicable laws** |	The project must state that it complies with relevant privacy laws, and all applicable international and domestic laws.
+**8. Adherence to standards & best practices** |	Projects must demonstrate some adherence to standards, best practices and/or principles. i.e. the principles for digital development
+**9. Do No Harm** | 	All projects must demonstrate that they have taken steps to ensure that the project anticipates, prevents and does no harm. 
+**9a) Privacy & Freedom of Expression** |	All projects must have strategies in place to anticipate, respond to and minimize adverse impacts on privacy and freedom of expression where governments are believed to be using the project’s product or services for illegitimate or political purposes.
+**9b) Data Privacy & Security** |	Project’s that collect data must identify the types of data collected and stored and demonstrate that the project ensures the privacy and security of this data and has taken steps to prevent adverse impacts resulting from it’s collection, storage and distribution.
+**9c) Inappropriate & Illegal Content** |	Projects that collect, store or distribute content must have policies identifying inappropriate and illegal content such as child sexual abuse materials and mechanisms for detecting and moderating inappropriate/illegal content.
+**9d) Protection from harassment** |	If the project facilitates interactions with or between users or contributors there must be a mechanism for users and contributors to protect themselves against grief, abuse, and harassment. The project must have a mechanism to address the safety and security of underage users.
+
+*NOTE: that evidence for requirements 7-9 can only be given by someone authorized to speak on behalf of the project. We collect title, name and contact information to confirm this authority.*
