@@ -1,4 +1,5 @@
-[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+[![CC BY-SA 4.0][cc-by-sa-shield]](LICENSE)
+[![Contributor Covenant][code-of-conduct-shield]](CODE_OF_CONDUCT.md)
 
 # Digital Public Goods Standard
 
@@ -16,7 +17,7 @@ This standard was developed from the original 51 indicator standard used by the 
 
 This repository is primarily content, and it is licensed under a [Creative Commons Atribution ShareAlike 4.0 International License](LICENSE).
 
-[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+[![CC BY-SA 4.0][cc-by-sa-image]](LICENSE)
 
 > This is a human-readable summary of (and not a substitute for) the license.
 > 
@@ -31,6 +32,6 @@ This repository is primarily content, and it is licensed under a [Creative Commo
 >
 > No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
-[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+[code-of-conduct-shield]: https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg
