@@ -13,27 +13,19 @@ This standard was developed from the original 51 indicator standard used by the 
 
 [The Standard](standard.md) is currently at version 1.0, published on Sept. 15, 2020.
 
+## 👍 Endorsements
+
+The Standard is endorsed by [a growing list](endorsement.md) of open source, open content and open data advocacy and advancement experts. Endorsement means agreement with the standard for Digital Public Goods set out through the indicators, and a willingness to have your name and title publicly listed as having contributed to and endorsing the standard.
+
+Add yours by editing the [file](endorsement.md), and submitting a Pull Request.
+
 ## 🤗 Code of Conduct
 
 The Digital Public Goods Alliance is dedicated to building a welcoming, diverse and safe community. We expect everyone participating in the Digital Public Goods Alliance community to abide by our [**Code of Conduct**](CODE_OF_CONDUCT.md). Please read it. Please follow it. In the Digital Public Goods Alliance, we work hard to build each other up and create amazing things together. 💪💜
 
-## 👍 Acknowledgements
+## 🙏 Acknowledgements
 
-Thank you to the following individuals and organizations for their contribution to version 1.0:
-
-**Individuals** (sorted alphabetically by last name)
-
-* Matt Germonrez ([@germonprez](https://github.com/germonprez)) - Professor, College of Information Science & Technology at University of Nebraska at Omaha
-* Sean P. Goggins ([@sgoggins](https://github.com/sgoggins)) - Professor, College of Engineering at University of Missouri
-* Georg J.P. Link ([@GeorgLink](https://github.com/GeorgLink)) - Open Source Strategist
-* Jon Lloyd, Director of Campaigns at Mozilla Foundation
-* Don Marti
-
-As well as to the participants of the Early Grade Reading Community of Practice
-
-**Organizations**
-
-UNICEF, Norway, iSPIRT, Sierra Leone and the DPG Alliance Secretariat. 
+Thank you to all the individuals that contributed to and [endorsed](endorsement.md) the standard, as well as well as to the participants of the **Early Grade Reading Community of Practice**. We also thank the following organizations: UNICEF, Norway, iSPIRT, Sierra Leone and the DPG Alliance Secretariat. 
 
 ## :memo: License
 
