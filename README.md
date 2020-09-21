@@ -6,15 +6,21 @@
 </p>
 <h1 align="center">Digital Public Goods Standard</h1>
 
-In June 2020 the Secretary General of the United Nations published the “[Roadmap for Digital Cooperation](https://www.un.org/en/content/digital-cooperation-roadmap/)” which defined digital public goods as “Open source software, open data, open AI models, open standards and open content that adhere to privacy and other applicable international and domestic laws, standards and best practices, and do no harm.”
+The [digital public goods standard](standard.md) is a set of specifications and guidelines designed to maximize consensus about whether something conforms to the definition of digital public goods as laid out by the UN Secretary General in the 2020 Roadmap to Digital Cooperation: *digital public goods must be open source software, open data, open AI models, open standards and open content that adhere to privacy and other applicable laws and best practices, do no harm, and help attain the SDGs.*
 
-This definition has been translated into a [9-indicator standard](standard.md) which we hope will serve as a comprehensive, shared definition to promote the discovery, development, use of and investment in digital public goods for a more equitable world.
-
-This standard was developed from the original 51 indicator standard used by the Alliance in the preliminary review of [Early Grade Reading](https://digitalpublicgoods.net/blog/announcing-the-first-vetted-digital-public-goods-for-foundational-literacy-and-early-grade-reading/) projects and refined through the contributions of many experts and diverse stakeholders.
+This standard establishes a baseline of quality that must be met in order to earn recognition as a digital public good by the DPG Alliance and broader community. The standard itself is [open to contribution](standard.md) and we invite anyone who uses and benefits from the standard to [join our growing list of endorsers](endorsement.md). 
 
 ## 🔎 Current Version
 
 [The Standard](standard.md) is currently at version 1.0, published on Sept. 15, 2020.
+
+## ✅ Application of the Standard
+
+We encourage creators, maintainers, funders, implementers and consumers to use this standard to recognize, assess and support digital public goods. We maintain a list of vetted digital public goods that meet the standards described above on [our platform](https://digitalpublicgoods.net/platform).  
+
+We apply this standard to projects on our platform that have either been [nominated directly](https://docs.google.com/forms/d/e/1FAIpQLSdGzlBiecPBlVvJXmcMKXF3zdxASY8vGnrdnNNwp7fVKb169A/viewform) or have been pulled together from partnership databases. Projects that are submitted to our platform will undergo three stages of review to ensure that they meet the requirements laid out in the standard. As a project undergoes various reviews it will move from **Nominee**, to **Candidate**, to a fully reviewed **Digital Public Good**. 
+
+Movement through the process shall be transparently displayed on GitHub and can be [viewed here](https://github.com/unicef/publicgoods-candidates/pulls). If a project meets the standard it will be officially considered a Digital Public Good and will be showcased on the website and may be eligible for additional recognition and support.
 
 ## 👍 Endorsements
 
