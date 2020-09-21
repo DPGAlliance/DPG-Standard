@@ -1,7 +1,10 @@
 [![CC BY-SA 4.0][cc-by-sa-shield]](LICENSE)
 [![Contributor Covenant][code-of-conduct-shield]](CODE_OF_CONDUCT.md)
 
-# Digital Public Goods Standard
+<p align="center">
+    <img alt="oss image" src="docs/standard-badge.svg" height="150px" width="150px">
+</p>
+<h1 align="center">Digital Public Goods Standard</h1>
 
 In June 2020 the Secretary General of the United Nations published the “[Roadmap for Digital Cooperation](https://www.un.org/en/content/digital-cooperation-roadmap/)” which defined digital public goods as “Open source software, open data, open AI models, open standards and open content that adhere to privacy and other applicable international and domestic laws, standards and best practices, and do no harm.”
 
@@ -25,7 +28,9 @@ The Digital Public Goods Alliance is dedicated to building a welcoming, diverse 
 
 ## 🙏 Acknowledgements
 
-Thank you to all the individuals that contributed to and [endorsed](endorsement.md) the standard, as well as well as to the participants of the **Early Grade Reading Community of Practice**. We also thank the following organizations: UNICEF, Norway, iSPIRT, Sierra Leone and the DPG Alliance Secretariat. 
+Thank you to all the individuals that contributed to and [endorsed](endorsement.md) the standard, as well as well as to the participants of the **Early Grade Reading Community of Practice**. We also thank the following organizations: UNICEF, Norway, iSPIRT, Sierra Leone and the DPG Alliance Secretariat.
+
+*Image Credit: [Badge](https://thenounproject.com/search/?q=seal+of+approval&i=32270) by André Luiz from [the Noun Project](http://thenounproject.com/), released under a CC license.*
 
 ## :memo: License
 
