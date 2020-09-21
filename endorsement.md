@@ -7,7 +7,11 @@ have your name and title publicly listed as having contributed to and endorsing 
 
 *Note: attribution to this endorsement is explicitly made by the individual, not their organization.*
 
-Add your name to the list and endorse the standard by editing this file and submitting a Pull Request.
+### Endorse the standard
+
+Add your name to the list and endorse the standard by editing this file and submitting a Pull Request directly from your browser.
+
+## Endorsement List
 
 *Note: the list is sorted alphabetically by last name*
 
