@@ -5,7 +5,7 @@
 
 In June 2020 the Secretary General of the United Nations published the “[Roadmap for Digital Cooperation](https://www.un.org/en/content/digital-cooperation-roadmap/)” which defined digital public goods as “Open source software, open data, open AI models, open standards and open content that adhere to privacy and other applicable international and domestic laws, standards and best practices, and do no harm.”
 
-This definition has been translated into a **9-indicator standard** which we hope will serve as a comprehensive, shared definition to promote the discovery, development, use of and investment in digital public goods for a more equitable world.
+This definition has been translated into a [9-indicator standard](standard.md) which we hope will serve as a comprehensive, shared definition to promote the discovery, development, use of and investment in digital public goods for a more equitable world.
 
 This standard was developed from the original 51 indicator standard used by the Alliance in the preliminary review of [Early Grade Reading](https://digitalpublicgoods.net/blog/announcing-the-first-vetted-digital-public-goods-for-foundational-literacy-and-early-grade-reading/) projects and refined through the contributions of many experts and diverse stakeholders.
 
