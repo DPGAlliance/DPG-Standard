@@ -29,7 +29,7 @@ Thank you to all the individuals that contributed to and [endorsed](endorsement.
 
 ## :memo: License
 
-This repository is primarily content, and it is licensed under a [Creative Commons Atribution ShareAlike 4.0 International License](LICENSE).
+This repository is primarily content, and it is licensed under a [Creative Commons Attribution ShareAlike 4.0 International License](LICENSE).
 
 [![CC BY-SA 4.0][cc-by-sa-image]](LICENSE)
 
