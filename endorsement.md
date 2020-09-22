@@ -9,7 +9,7 @@ have your name and title publicly listed as having contributed to and endorsing 
 
 ### Endorse the standard
 
-Two mechanisms for endorsing the standard. 1. Add your name to the list and endorse the standard by editing this file and submitting a Pull Request directly from your browser. 2. Complete [this form](https://forms.gle/knVvbv4mLfxkHtFS8) and we'll add you to the endorsement list.  
+Two ways to endorse the standard. 1. Add your name to the list and endorse the standard by editing this file and submitting a Pull Request directly from your browser. 2. Complete [this form](https://forms.gle/knVvbv4mLfxkHtFS8) and we'll add you to the endorsement list.  
 
 ## Endorsement List
 
