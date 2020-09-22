@@ -26,7 +26,7 @@ Movement through the process shall be transparently displayed on GitHub and can 
 
 The Standard is endorsed by [a growing list](endorsement.md) of open source, open content and open data advocacy and advancement experts. Endorsement means agreement with the standard for Digital Public Goods set out through the indicators, and a willingness to have your name and title publicly listed as having contributed to and endorsing the standard.
 
-Add yours by editing the [file](endorsement.md), and submitting a Pull Request.
+Add yours by editing the [file](endorsement.md), and submitting a Pull Request or filling out [this form](https://forms.gle/knVvbv4mLfxkHtFS8).
 
 ## 🤗 Code of Conduct
 
