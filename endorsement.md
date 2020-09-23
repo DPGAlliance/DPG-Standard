@@ -28,3 +28,4 @@ Full Name | Title | Organization
 Jon Lloyd | Director of Campaigns at Mozilla Foundation | [Mozilla Foundation](https://foundation.mozilla.org/en/)
 Don Marti | |
 [Liv Marte Nordhaug](https://github.com/livmarte) | Secretariat Co-Lead, Digital Public Goods Alliance | [Digital Public Goods Alliance](https://digitalpublicgoods.net)
+[Sean Blaschke](https://github.com/seanblaschke) | Technology for Development Business Analyst, UNICEF Eastern and Southern Africa Regional Office | [UNICEF](https://www.unicef.org/)
