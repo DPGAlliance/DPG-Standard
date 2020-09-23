@@ -6,7 +6,7 @@
 </p>
 <h1 align="center">Digital Public Goods Standard</h1>
 
-The [digital public goods standard](standard.md) is a set of specifications and guidelines designed to maximize consensus about whether something conforms to the definition of digital public goods as laid out by the UN Secretary General in the 2020 Roadmap to Digital Cooperation: *digital public goods must be open source software, open data, open AI models, open standards and open content that adhere to privacy and other applicable laws and best practices, do no harm, and help attain the SDGs(sustainable development goals).*
+The [digital public goods standard](standard.md) is a set of specifications and guidelines designed to maximize consensus about whether something conforms to the definition of digital public goods as laid out by the UN Secretary General in the 2020 Roadmap to Digital Cooperation: *digital public goods must be open source software, open data, open AI models, open standards and open content that adhere to privacy and other applicable laws and best practices, do no harm, and help attain the Sustainable Development Goals (SDGs).*
 
 This standard establishes a baseline of quality that must be met in order to earn recognition as a digital public good by the [Digital Public Goods Alliance](https://digitalpublicgoods.net) and broader community. The standard itself is [open to contribution](standard.md) and we invite anyone who uses and benefits from the standard to [join our growing list of endorsers](endorsement.md). 
 
