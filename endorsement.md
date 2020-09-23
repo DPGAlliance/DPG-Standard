@@ -20,6 +20,7 @@ Two ways to endorse the standard:
 
 Full Name | Title | Organization 
 --- | --- | ---
+[Sean Blaschke](https://github.com/seanblaschke) | Technology for Development Business Analyst, UNICEF Eastern and Southern Africa Regional Office | [UNICEF](https://www.unicef.org/)
 [Matt Germonrez](https://github.com/germonprez) | Professor, College of Information Science & Technology at University of Nebraska at Omaha | [CHAOSS](https://chaoss.community/)
 [Sean P. Goggins](https://github.com/sgoggins) | Professor, College of Engineering at University of Missouri | [CHAOSS](https://chaoss.community/)
 [Victor Grau Serrat](https://github.com/lacabra) | Technical Lead, UNICEF Office of Innovation | [UNICEF](https://www.unicef.org/innovation/)
@@ -28,3 +29,4 @@ Full Name | Title | Organization
 Jon Lloyd | Director of Campaigns at Mozilla Foundation | [Mozilla Foundation](https://foundation.mozilla.org/en/)
 Don Marti | |
 [Liv Marte Nordhaug](https://github.com/livmarte) | Secretariat Co-Lead, Digital Public Goods Alliance | [Digital Public Goods Alliance](https://digitalpublicgoods.net)
+
