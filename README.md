@@ -16,7 +16,7 @@ This standard establishes a baseline of quality that must be met in order to ear
 
 ## ✅ Application of the Standard
 
-We encourage creators, maintainers, funders, implementers and consumers to use this standard to recognize, assess and support digital public goods. We maintain a list of vetted digital public goods that meet the standards described above on [our platform](https://digitalpublicgoods.net/platform).  
+We encourage creators, maintainers, funders, implementers and consumers to use this standard to recognize, assess and support digital public goods. The standard is operationalized through a [questionary](standard-questions.md) that is required as part of the assessment process. We maintain a list of vetted digital public goods that meet the standard described above on [our platform](https://digitalpublicgoods.net/platform). 
 
 ![Vetting Process](docs/process.svg)
 
