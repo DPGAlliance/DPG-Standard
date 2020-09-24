@@ -31,7 +31,11 @@ This document contains the set of questions that are being asked to assess each 
                     <li>Does it use an Open Data license from the Open Data Commons list?</li>
                 </ul>
             </td>
-            <td valign="top">DPGs must use an open license. Please identify which of <a href="https://github.com/unicef/publicgoods-candidates/blob/master/docs/licenses.md" target="_blank">these approved open source license</a> applies to your project? </td>
+            <td valign="top">
+                <ul>
+                    <li>DPGs must use an open license. Please identify which of <a href="https://github.com/unicef/publicgoods-candidates/blob/master/docs/licenses.md" target="_blank">these approved open source license</a> applies to your project? </li>
+                </ul>
+            </td>
         </tr>
         <tr>
             <td valign="top">3. Is ownership clearly defined</td>
@@ -77,23 +81,31 @@ This document contains the set of questions that are being asked to assess each 
         </tr>
         <tr>
             <td colspan="3" style="background-color:lightgrey">
-                Note that requirments related to indicators 7-9 can only be answered by someone authorized to speak on behalf of the project.
+                Note that requirements related to indicators 7-9 can only be answered by someone authorized to speak on behalf of the project.
             </td>
         </tr>
         <tr>
             <td rowspan="3" valign="top">7. Does the project adhere to privacy and other applicable international and domestic laws?</td>
             <td valign="top">Does this project adhere to relevant privacy laws? </td>
-            <td valign="top">Does this project comply with all relevant privacy laws?</td>
+            <td valign="top">
+                <ul>
+                    <li>Does this project comply with all relevant privacy laws?</li>
+                </ul>
+            </td>
         </tr>
         <tr>
             <td valign="top">List the key privacy laws that you&#39;re following </td>
-            <td valign="top">Please list all the relevant privacy laws that the project complies with? </td>
-        </tr>
-        <tr>
-            <td valign="top">Does this project comply with all applicable international and domestic laws? </td>
             <td valign="top">
                 <ul>
-                    <li>Does this project comply with all applicable international and domestic laws?</li>
+                    <li>Please list all the relevant privacy laws that the project complies with?</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top">To the best of your knowledge does this project comply with all applicable international and domestic laws?</td>
+            <td valign="top">
+                <ul>
+                    <li>To the best of your knowledge does this project comply with all applicable international and domestic laws?</li>
                     <li>Please list the applicable internation and domestic laws that the project complies with.</li>
                 </ul>
             </td>
