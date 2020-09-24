@@ -31,7 +31,7 @@ This document contains the set of questions that are being asked to assess each 
                     <li>Does it use an Open Data license from the Open Data Commons list?</li>
                 </ul>
             </td>
-            <td>DPGs must use an open license. Please identify which of [these approved open source license](https://github.com/unicef/publicgoods-candidates/blob/master/docs/licenses.md) applies to your project? </td>
+            <td>DPGs must use an open license. Please identify which of <a href="https://github.com/unicef/publicgoods-candidates/blob/master/docs/licenses.md" target="_blank">these approved open source license</a> applies to your project? </td>
         </tr>
         <tr>
             <td valign="top">3. Is ownership clearly defined</td>
