@@ -21,6 +21,7 @@ Two ways to endorse the standard:
 Full Name | Title | Organization
 --- | --- | ---
 [Sean Blaschke](https://github.com/seanblaschke) | Technology for Development Business Analyst, UNICEF Eastern and Southern Africa Regional Office | [UNICEF](https://www.unicef.org/)
+[Michael Downey](https://floss.social/@downey) | Director of Community, Open Source Center | [Digital Impact Alliance @ United Nations Foundation](https://digitalimpactalliance.org/)
 [Justin W. Flory](https://jwf.io) | Open Source Technical Advisor, UNICEF Office of Innovation | [UNICEF Innovation Fund](https://unicefinnovationfund.org/)
 [Matt Germonrez](https://github.com/germonprez) | Professor, College of Information Science & Technology at University of Nebraska at Omaha | [CHAOSS](https://chaoss.community/)
 [Sean P. Goggins](https://github.com/sgoggins) | Professor, College of Engineering at University of Missouri | [CHAOSS](https://chaoss.community/)
