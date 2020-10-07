@@ -26,7 +26,7 @@ Full Name | Title | Organization
 [Matt Germonrez](https://github.com/germonprez) | Professor, College of Information Science & Technology at University of Nebraska at Omaha | [CHAOSS](https://chaoss.community/)
 [Sean P. Goggins](https://github.com/sgoggins) | Professor, College of Engineering at University of Missouri | [CHAOSS](https://chaoss.community/)
 [Victor Grau Serrat](https://github.com/lacabra) | Technical Lead, UNICEF Office of Innovation | [UNICEF](https://www.unicef.org/innovation/)
-[Sudhanshu Shekhar (https://www.linkedin.com/in/sudshekhar02/) | Fellow, iSPIRT | [iSPIRT](https://ispirt.in/)
+[Sudhanshu Shekhar](https://www.linkedin.com/in/sudshekhar02/) | Fellow, iSPIRT | [iSPIRT](https://ispirt.in/)
 [Lucy Harris](https://github.com/lucyeoh) | Secretariat Co-Lead, Digital Public Goods Alliance | [Digital Public Goods Alliance](https://digitalpublicgoods.net)
 [Georg J.P. Link](https://github.com/GeorgLink) | Open Source Strategist | [CHAOSS](https://chaoss.community/)
 Jon Lloyd | Director of Campaigns at Mozilla Foundation | [Mozilla Foundation](https://foundation.mozilla.org/en/)
