@@ -2,8 +2,9 @@
 
 This is work in progress. 
 
-The purpose of this document is to present how the Digital Public Goods Alliance envisions governing a growing community of
-contributors and stakeholders around the Digital Public Goods Standard.
+The purpose of this document is to present how the Digital Public Goods Alliance envisions engaging a growing community of
+contributors and stakeholders around the Digital Public Goods Standard. Our ambition is to balance responsiveness to feedback, 
+with stability and predictabilty for the standard so that it can be a framework that people can build for and to.
 
 ## Principles
 
@@ -25,18 +26,17 @@ community to embrace it. Here's an excerpt on our pledge:
 ## Revisions
 
 This section documents the processes for:
-* proposing modifications to the current version of the standard, 
+* proposing modifications to the current version of the standard 
 * reviewing proposed changes 
 * and incorporating them in forthcoming revisions
 
 The latest version of the [Digital Public Goods Standard](standard.md) is found at the root folder of this repository. 
 The standard is operationalized through a [questionary](standard-questions.md). This set of questions is used to screen 
-projects or products, and validate whether they conform to the standard, and can thus be 
-legitimately classified as Digital Public Goods.
+projects or products, and validate whether they conform to the standard, and can thus be classified as Digital Public Goods.
 
 ### Priority
 
-Our priority for Q4 2020 is to consolidate the standard. Thus, we ask all comments and edits to be centered around the standard 
+Our priority for Q4 2020 is to arrive at a stable version of the standard. Thus, we ask all comments and edits to be centered around the standard 
 rather than the associated set of questions. The rationale is that if the standard were to change in a significant way over the
 initial months, so would the questionary; and any preliminary work on the questions may need to be discarded.
 
@@ -66,7 +66,7 @@ that alter the existing indicators in significant ways, have implications across
 These may also include reorganization of the various sections of the standard, removing existing sections altogether, or adding new indicators to the standard.
 
 * [![](https://img.shields.io/badge/-fundamental-b60205)](https://github.com/DPGAlliance/DPG-Standard/labels/fundamental) These involve
-fundamental or philosophical changes taht challenge the purpose, the scope or the very existence of the standard.
+fundamental or philosophical changes that challenge the purpose, the scope or the very existence of the standard.
 
 ## Proposal review
 
