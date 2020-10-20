@@ -98,6 +98,25 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 * *MINOR version when you add functionality in a backwards compatible manner*: [![](https://img.shields.io/badge/-major_change-FFA500)](https://github.com/DPGAlliance/DPG-Standard/labels/major%20change)
 * *PATCH version when you make backwards compatible bug fixes*: [![](https://img.shields.io/badge/-minor_fix-c5def5)](https://github.com/DPGAlliance/DPG-Standard/pulls?q=is%3Apr+is%3Aopen+label%3A%22minor+fix%22)
 
+### Release a new version
+
+Follow these steps to release a new version:
+
+1. Document your upcoming changes in `CHANGELOG.md`. Follow the existing structure and be consistent with the order of subsections: `Added`, `Changed`, `Deleted`. Also be sure to link the version in the diff list at the very bottom of the CHANGELOG.
+2. Commit all the changes that will be included in the new version.
+3. Tag the last commit, for example, for version 1.0.1:
+    ```bash
+    git tag -a v1.0.1 -m "Version 1.0.1"
+    ```
+4. Push the tag to the origin:
+    ```bash
+    git push origin --tags
+    ```
+5. Visit https://github.com/DPGAlliance/DPG-Standard/releases and click on `Draft a New Release`:
+    - Select the version you just tagged in step 3 above
+    - Enter the `Release title`, for example `v1.0.1` consistent with the preceeding steps.
+    - In the `Describe this release`, copy and paste the text from the CHANGELOG for this version in *raw form* (it's markdown after all). Preview and verify that it looks good (you can edit this information again later, no big deal if something is wrong in the description).
+
 # Current Roles
 
 * [Liv Marte Nordhaug](https://github.com/livmarte), Secretariat Co-Lead
