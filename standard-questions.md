@@ -131,7 +131,7 @@ This document contains the set of questions that are being asked to assess each 
             </td>
         </tr>
         <tr>
-            <td rowspan="6" valign="top">9. Does the project do no harm? </td>
+            <td rowspan="5" valign="top">9. Does the project do no harm? </td>
             <td valign="top">Has this project taken steps to anticipate, prevent and do no harm? </td>
             <td valign="top">
                 <ul>
