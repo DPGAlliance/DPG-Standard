@@ -6,9 +6,9 @@
 </p>
 <h1 align="center">Digital Public Goods Standard</h1>
 
-The [digital public goods standard](standard.md) is a set of specifications and guidelines designed to maximize consensus about whether something conforms to the definition of digital public goods as laid out by the UN Secretary General in the 2020 Roadmap to Digital Cooperation: *digital public goods must be open source software, open data, open AI models, open standards and open content that adhere to privacy and other applicable laws and best practices, do no harm, and help attain the SDGs.*
+The [digital public goods standard](standard.md) is a set of specifications and guidelines designed to maximize consensus about whether something conforms to the definition of digital public goods as laid out by the UN Secretary General in the 2020 Roadmap to Digital Cooperation: *digital public goods must be open source software, open data, open AI models, open standards and open content that adhere to privacy and other applicable laws and best practices, do no harm, and help attain the Sustainable Development Goals (SDGs).*
 
-This standard establishes a baseline of quality that must be met in order to earn recognition as a digital public good by the DPG Alliance and broader community. The standard itself is [open to contribution](standard.md) and we invite anyone who uses and benefits from the standard to [join our growing list of endorsers](endorsement.md). 
+This standard establishes a baseline of quality that must be met in order to earn recognition as a digital public good by the [Digital Public Goods Alliance](https://digitalpublicgoods.net) and broader community. The standard itself is [open to contribution](standard.md) and we invite anyone who uses and benefits from the standard to [join our growing list of endorsers](endorsement.md). 
 
 ## 🔎 Current Version
 
@@ -16,7 +16,9 @@ This standard establishes a baseline of quality that must be met in order to ear
 
 ## ✅ Application of the Standard
 
-We encourage creators, maintainers, funders, implementers and consumers to use this standard to recognize, assess and support digital public goods. We maintain a list of vetted digital public goods that meet the standards described above on [our platform](https://digitalpublicgoods.net/platform).  
+We encourage creators, maintainers, funders, implementers and consumers to use this standard to recognize, assess and support digital public goods. The standard is operationalized through a [questionary](standard-questions.md) that is required as part of the assessment process. We maintain a list of vetted digital public goods that meet the standard described above on [our platform](https://digitalpublicgoods.net/platform). 
+
+![Vetting Process](docs/process.svg)
 
 We apply this standard to projects on our platform that have either been [nominated directly](https://docs.google.com/forms/d/e/1FAIpQLSdGzlBiecPBlVvJXmcMKXF3zdxASY8vGnrdnNNwp7fVKb169A/viewform) or have been pulled together from partnership databases. Projects that are submitted to our platform will undergo three stages of review to ensure that they meet the requirements laid out in the standard. As a project undergoes various reviews it will move from **Nominee**, to **Candidate**, to a fully reviewed **Digital Public Good**. 
 
@@ -31,6 +33,10 @@ Add yours by editing the [file](endorsement.md), and submitting a Pull Request o
 ## 🤗 Code of Conduct
 
 The Digital Public Goods Alliance is dedicated to building a welcoming, diverse and safe community. We expect everyone participating in the Digital Public Goods Alliance community to abide by our [**Code of Conduct**](CODE_OF_CONDUCT.md). Please read it. Please follow it. In the Digital Public Goods Alliance, we work hard to build each other up and create amazing things together. 💪💜
+
+## ⚖️ Governance
+
+At the Digital Public Goods Alliance, we envision a growing community of contributors and stakeholders around the Digital Public Goods Standard in an open, transparent and accessible manner. Our [governance](governance.md) documents the processes for welcoming, reviewing and merging proposals for modifications to the standard, and managing clear expectations around these processes.
 
 ## 🙏 Acknowledgements
 
