@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.4] 2020-10-20
+
+### Changed
+
+- Changed language on `7. Adherence to privacy and applicable laws` to include clarifying statement on **to the best of its knowledge** (#7)
+
 ## [1.0.3] 2020-10-20
 
 ### Added
@@ -33,6 +39,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Released first version of the Digital Public Good Standard in consultation with a number of key stakeholders at the intersection of open source and social good.
 
+[1.0.4]: https://github.com/DPGAlliance/DPG-Standard/compare/v1.0.3...v1.0.4
 [1.0.3]: https://github.com/DPGAlliance/DPG-Standard/compare/v1.0.2...v1.0.3
 [1.0.2]: https://github.com/DPGAlliance/DPG-Standard/compare/v1.0.1...v1.0.2
 [1.0.1]: https://github.com/DPGAlliance/DPG-Standard/compare/v1.0.0...v1.0.1
