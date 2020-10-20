@@ -131,7 +131,7 @@ This document contains the set of questions that are being asked to assess each 
             </td>
         </tr>
         <tr>
-            <td rowspan="7" valign="top">9. Does the project do no harm? </td>
+            <td rowspan="6" valign="top">9. Does the project do no harm? </td>
             <td valign="top">Has this project taken steps to anticipate, prevent and do no harm? </td>
             <td valign="top">
                 <ul>
@@ -191,15 +191,6 @@ This document contains the set of questions that are being asked to assess each 
                 <ul>
                     <li>Does this project have a clearly discoverable privacy policy and/or terms of service?</li>
                     <li>Please provide a link</li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">Child Online Safety</td>
-            <td valign="top">
-                <ul>
-                    <li>Does the project address the safety and security of underage users?</li>
-                    <li>Please describe</li>
                 </ul>
             </td>
         </tr>
