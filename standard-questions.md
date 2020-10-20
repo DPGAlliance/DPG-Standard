@@ -158,7 +158,7 @@ This document contains the set of questions that are being asked to assess each 
                     <li>If yes - Does this project share this data with third parties?</li>
                     <li>Please describe the circumstances with which this project shares data with third parties. Please add links as relevant</li>
                     <li>If yes - Does the project ensure the privacy and security of this data and has it taken steps to prevent adverse impacts resulting from it&#39;s collection, storage and distribution</li>
-                    <li>Please describe</li>
+                    <li>If yes - please describe, and include a link to the privacy policy and/or terms of service</li>
                 </ul>
             </td>
         </tr>
@@ -182,15 +182,6 @@ This document contains the set of questions that are being asked to assess each 
                     <li>Does this project facilitate interactions with or between users or contributors?</li>
                     <li>Does the project help users and contributors protect themselves against grief, abuse, and harassment.</li>
                     <li>Please describe</li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">Transparency </td>
-            <td valign="top">
-                <ul>
-                    <li>Does this project have a clearly discoverable privacy policy and/or terms of service?</li>
-                    <li>Please provide a link</li>
                 </ul>
             </td>
         </tr>
