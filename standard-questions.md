@@ -131,7 +131,7 @@ This document contains the set of questions that are being asked to assess each 
             </td>
         </tr>
         <tr>
-            <td rowspan="7" valign="top">9. Does the project do no harm? </td>
+            <td rowspan="6" valign="top">9. Does the project do no harm? </td>
             <td valign="top">Has this project taken steps to anticipate, prevent and do no harm? </td>
             <td valign="top">
                 <ul>
@@ -141,7 +141,7 @@ This document contains the set of questions that are being asked to assess each 
             </td>
         </tr>
         <tr>
-            <td valign="top">Privacy and freedom</td>
+            <td valign="top">9.a. Privacy and Freedom of Expression</td>
             <td valign="top">
                 <ul>
                     <li>Does this project have strategies in place to anticipate, respond to and minimize adverse impacts on privacy and freedom of expression where governments or bad actors are believed to be using this projects’s products or services for illegitimate or political purposes</li>
@@ -150,7 +150,7 @@ This document contains the set of questions that are being asked to assess each 
             </td>
         </tr>
         <tr>
-            <td valign="top">Data Privacy &amp; Security</td>
+            <td valign="top">9.b. Data Privacy &amp; Security</td>
             <td valign="top">
                 <ul>
                     <li>Does this project collect or store personally identifiable data?</li>
@@ -163,7 +163,7 @@ This document contains the set of questions that are being asked to assess each 
             </td>
         </tr>
         <tr>
-            <td valign="top">Inappropriate/Illegal Content</td>
+            <td valign="top">9.c. Inappropriate &amp; Illegal Content</td>
             <td valign="top">
                 <ul>
                     <li>Does this project collect, store or distribute content?</li>
@@ -176,12 +176,14 @@ This document contains the set of questions that are being asked to assess each 
             </td>
         </tr>
         <tr>
-            <td valign="top">Protection from Harassement</td>
+            <td valign="top">9.d. Protection from harassment</td>
             <td valign="top">
                 <ul>
                     <li>Does this project facilitate interactions with or between users or contributors?</li>
-                    <li>Does the project help users and contributors protect themselves against grief, abuse, and harassment.</li>
-                    <li>Please describe</li>
+                    <li>If yes - does the project take steps to address the safety and security of underage users?</li>
+                    <li>If yes - please describe the steps this project takes to address risk or prevent access by underage users.</li>
+                    <li>If yes - does the project help users and contributors protect themselves against grief, abuse, and harassment.</li>
+                    <li>If yes - please describe the steps taken to help users protect users and contributors.</li>
                 </ul>
             </td>
         </tr>
@@ -191,15 +193,6 @@ This document contains the set of questions that are being asked to assess each 
                 <ul>
                     <li>Does this project have a clearly discoverable privacy policy and/or terms of service?</li>
                     <li>Please provide a link</li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">Child Online Safety</td>
-            <td valign="top">
-                <ul>
-                    <li>Does the project address the safety and security of underage users?</li>
-                    <li>Please describe</li>
                 </ul>
             </td>
         </tr>
