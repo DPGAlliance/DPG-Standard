@@ -30,5 +30,5 @@ Full Name | Title | Organization
 [Lucy Harris](https://github.com/lucyeoh) | Secretariat Co-Lead, Digital Public Goods Alliance | [Digital Public Goods Alliance](https://digitalpublicgoods.net)
 [Georg J.P. Link](https://github.com/GeorgLink) | Open Source Strategist | [CHAOSS](https://chaoss.community/)
 Jon Lloyd | Director of Campaigns at Mozilla Foundation | [Mozilla Foundation](https://foundation.mozilla.org/en/)
-Don Marti | |
+[Don Marti](https://github.com/dmarti) | VP, Ecosystem Innovation | [CafeMedia](https://cafemedia.com/)
 [Liv Marte Nordhaug](https://github.com/livmarte) | Secretariat Co-Lead, Digital Public Goods Alliance | [Digital Public Goods Alliance](https://digitalpublicgoods.net)
