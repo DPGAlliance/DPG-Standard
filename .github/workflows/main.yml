@@ -1,0 +1,17 @@
+# The only reason this CI exists is that we can require branches to be up
+# to date before merging, which can only be enforced if there is at least
+# one status check enabled.
+
+name: Dummy CI
+
+on: 
+  push:
+
+jobs:
+  dummy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Dummy action
+        run: echo dummy
