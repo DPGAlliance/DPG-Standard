@@ -1,8 +1,8 @@
 # Digital Public Goods Standard
 
-* **Version**: 1.0
-* **Publication Date**: Sept. 15, 2020
-
+* **Version**: 1.0.4 
+* **Last Update**: 2020-10-20
+* [View Changelog](https://github.com/DPGAlliance/DPG-Standard/blob/master/CHANGELOG.md)
 
 Indicator |	Requirement
 --- | ---
