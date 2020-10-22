@@ -170,8 +170,7 @@ This document contains the set of questions that are being asked to assess each 
                     <li>If yes - please describe the nature of the content (i.e. childrens books)</li>
                     <li>If yes - does this project have policies that describes what is considered innappropriate content i.e. child sexual abuse materials?</li>
                     <li>If yes - does this project have mechanisms for detecting and moderating innappropriate/illegal content?</li>
-                    <li>Please describe the mechanism for detecting and reporting innapropriate/illegal content?</li>
-                    <li>What is the response time?</li>
+                    <li>If yes - please describe the mechanism for detecting, reporting and removing innapropriate/illegal content (include average response time if known)?</li>
                 </ul>
             </td>
         </tr>
