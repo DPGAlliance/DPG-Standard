@@ -103,16 +103,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 Follow these steps to release a new version:
 
 1. Document your upcoming changes in `CHANGELOG.md`. Follow the existing structure and be consistent with the order of subsections: `Added`, `Changed`, `Deleted`. Also be sure to link the version in the diff list at the very bottom of the CHANGELOG.
-2. Commit all the changes that will be included in the new version.
-3. Tag the last commit, for example, for version 1.0.1:
+2. Update the version number in both `standard.md` and `README.md`.
+3. Commit all the changes that will be included in the new version.
+4. Tag the last commit, for example, for version 1.0.1:
     ```bash
     git tag -a v1.0.1 -m "Version 1.0.1"
     ```
-4. Push the tag to the origin:
+5. Push the tag to the origin:
     ```bash
     git push origin --tags
     ```
-5. Visit https://github.com/DPGAlliance/DPG-Standard/releases and click on `Draft a New Release`:
+6. Visit https://github.com/DPGAlliance/DPG-Standard/releases and click on `Draft a New Release`:
     - Select the version you just tagged in step 3 above
     - Enter the `Release title`, for example `v1.0.1` consistent with the preceeding steps.
     - In the `Describe this release`, copy and paste the text from the CHANGELOG for this version in *raw form* (it's markdown after all). Preview and verify that it looks good (you can edit this information again later, no big deal if something is wrong in the description).
