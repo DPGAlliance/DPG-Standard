@@ -8,7 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
-- Changed language on `7. Adherence to privacy and applicable laws` to include clarifying statement on **to the best of its knowledge** (#7)
+- Changed language on `7. Adherence to privacy and applicable laws` to include clarifying statement on **to the best of its knowledge** ([#2](https://github.com/DPGAlliance/DPG-Standard/pull/2))
 
 ## [1.0.3] 2020-10-20
 
@@ -16,23 +16,23 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added documentation on how to release a new version
 
 ### Changed 
-- Changed language on `9c) Inappropriate & Illegal Content` to include the mention of **removal** of inappropriate/illegal content (#3)
+- Changed language on `9c) Inappropriate & Illegal Content` to include the mention of **removal** of inappropriate/illegal content ([#3](https://github.com/DPGAlliance/DPG-Standard/pull/3))
 
 ## [1.0.2] 2020-10-20
 
 ### Changed
-- Clarified wording around CC licenses (#11)
+- Clarified wording around CC licenses ([#11](https://github.com/DPGAlliance/DPG-Standard/pull/11))
 
 ## [1.0.1] 2020-10-20
 
 ### Added
-- Added `standard-questions.md` (#10)
-- Created `governance.md` (#13)
-- Added `CHANGELOG.md` (#14)
+- Added `standard-questions.md` ([#10](https://github.com/DPGAlliance/DPG-Standard/pull/10))
+- Created `governance.md` ([#13](https://github.com/DPGAlliance/DPG-Standard/pull/13))
+- Added `CHANGELOG.md` ([#14](https://github.com/DPGAlliance/DPG-Standard/pull/14))
 
 ### Removed
-- Moved questions from section around online child safety into "9.d Protection from Harassment" where they belong (#16)
-- Removed transparency section from `standard-questions.md` since that section is not present in the standard (#17)
+- Moved questions from section around online child safety into "9.d Protection from Harassment" where they belong ([#16](https://github.com/DPGAlliance/DPG-Standard/pull/16))
+- Removed transparency section from `standard-questions.md` since that section is not present in the standard ([#17](https://github.com/DPGAlliance/DPG-Standard/pull/17))
 
 ## [1.0.0] 2020-09-15
 
