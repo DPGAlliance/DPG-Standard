@@ -69,7 +69,7 @@ This document contains the set of questions that are being asked to assess each 
             </td>
         </tr>
         <tr>
-            <td valign="top">6. Is non PII data accessible?</td>
+            <td valign="top">6. Does this project collect or use non-personally identifiable information (PII) data? ?</td>
             <td valign="top">Is there a mechanism for extracting or importing non PII data from the system in a non-proprietary format?</td>
             <td valign="top">
                 <ul>
