@@ -12,7 +12,7 @@ This standard establishes a baseline of quality that must be met in order to ear
 
 ## 🔎 Current Version
 
-[The Standard](standard.md) is currently at version 1.0, published on Sept. 15, 2020.
+[The Standard](standard.md) is currently at version 1.0.5, published on Oct. 22, 2020; view the [changelog](https://github.com/DPGAlliance/DPG-Standard/blob/master/CHANGELOG.md).
 
 ## ✅ Application of the Standard
 
