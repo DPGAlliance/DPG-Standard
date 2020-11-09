@@ -109,7 +109,7 @@ This document contains the set of questions that are being asked to assess each 
             <td valign="top">Does this project support standards? (i.e. Web Content Accessibility Guidelines (WCAG) 2.1 or other standards such as those listed on W3C.)</td>
             <td valign="top">
                 <ul>
-                    <li>Does this project support standards?Which standards does this project support (please list)</li>
+                    <li>Does this project support standards?</li>
                     <li>Which standards does this project support (please list)</li>
                     <li>Can you point to evidence of your support? (i.e. please link to your validator, open test suite, etc.)</li>
                 </ul>
@@ -119,7 +119,7 @@ This document contains the set of questions that are being asked to assess each 
             <td valign="top">Does this project adhere to best practices? </td>
             <td valign="top">
                 <ul>
-                    <li>Was this project built and developed according to or in adherence with any design, technical and/or sector best practices or principles? i.e. the Rrinciples for Digital Development?</li>
+                    <li>Was this project built and developed according to or in adherence with any design, technical and/or sector best practices or principles? i.e. the Principles for Digital Development?</li>
                     <li>Which principles and best practices does this project support (please list)</li>
                 </ul>
             </td>
@@ -155,7 +155,7 @@ This document contains the set of questions that are being asked to assess each 
                     <li>If yes - what kinds of content does this project, collect, store or distribute? (i.e. childrens books, weather data)</li>
                     <li>If yes - does this project have policies that describes what is considered innappropriate content i.e. child sexual abuse materials?</li>
                     <li>If yes - does this project have mechanisms for detecting and moderating innappropriate/illegal content?</li>
-                    <li>If yes - please describe the mechanism for detecting, reporting and removing innapropriate/illegal content (Please include the average response time for assessment and/or action. Link to any policies or descriptions of how inappropriate content is handled.):</li>
+                    <li>If yes - please describe the mechanism for detecting, reporting and removing innapropriate/illegal content (Please include the average response time for assessment and/or action. Link to any policies or descriptions of how inappropriate content is handled):</li>
                 </ul>
             </td>
         </tr>
