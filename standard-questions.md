@@ -131,7 +131,7 @@ This document contains the set of questions that are being asked to assess each 
             </td>
         </tr>
         <tr>
-            <td rowspan="5" valign="top">9. Does the project do no harm? </td>
+            <td rowspan="4" valign="top">9. Does the project do no harm? </td>
             <td valign="top">Has this project taken steps to anticipate, prevent and do no harm? </td>
             <td valign="top">
                 <ul>
@@ -141,16 +141,7 @@ This document contains the set of questions that are being asked to assess each 
             </td>
         </tr>
         <tr>
-            <td valign="top">9.a. Privacy and Freedom of Expression</td>
-            <td valign="top">
-                <ul>
-                    <li>Does this project have strategies in place to anticipate, respond to and minimize adverse impacts on privacy and freedom of expression where governments or bad actors are believed to be using this projects’s products or services for illegitimate or political purposes</li>
-                    <li>Please describe</li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">9.b. Data Privacy &amp; Security</td>
+            <td valign="top">9.a. Data Privacy &amp; Security</td>
             <td valign="top">
                 <ul>
                     <li>Does this project collect or store personally identifiable data?</li>
@@ -163,7 +154,7 @@ This document contains the set of questions that are being asked to assess each 
             </td>
         </tr>
         <tr>
-            <td valign="top">9.c. Inappropriate &amp; Illegal Content</td>
+            <td valign="top">9.b. Inappropriate &amp; Illegal Content</td>
             <td valign="top">
                 <ul>
                     <li>Does this project collect, store or distribute content?</li>
@@ -175,7 +166,7 @@ This document contains the set of questions that are being asked to assess each 
             </td>
         </tr>
         <tr>
-            <td valign="top">9.d. Protection from harassment</td>
+            <td valign="top">9.c. Protection from harassment</td>
             <td valign="top">
                 <ul>
                     <li>Does this project facilitate interactions with or between users or contributors?</li>
