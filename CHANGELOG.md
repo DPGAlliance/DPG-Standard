@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.1] 2020-11-12
+
+### Changed
+
+- Rewording of [standard-questions.md](https://github.com/DPGAlliance/DPG-Standard/blob/master/standard-questions.md) to align with the current submission form, and bring consistency. All very minor changes
+
 ## [1.1.0] 2020-11-09
 
 ## Removed
@@ -51,6 +57,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Released first version of the Digital Public Good Standard in consultation with a number of key stakeholders at the intersection of open source and social good.
 
+[1.1.1]: https://github.com/DPGAlliance/DPG-Standard/compare/v1.1.0...v1.1.1
 [1.1.0]: https://github.com/DPGAlliance/DPG-Standard/compare/v1.0.5...v1.1.0
 [1.0.5]: https://github.com/DPGAlliance/DPG-Standard/compare/v1.0.4...v1.0.5
 [1.0.4]: https://github.com/DPGAlliance/DPG-Standard/compare/v1.0.3...v1.0.4
