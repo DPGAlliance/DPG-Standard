@@ -8,7 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
-- Rewording of [standard-questions.md](https://github.com/DPGAlliance/DPG-Standard/blob/master/standard-questions.md) to align with the current submission form, and bring consistency. All very minor changes
+- Rewording of [standard-questions.md](https://github.com/DPGAlliance/DPG-Standard/blob/master/standard-questions.md) to align with the current submission form, and bring consistency. All very minor changes ([#25](https://github.com/DPGAlliance/DPG-Standard/pull/25))
 
 ## [1.1.0] 2020-11-09
 
