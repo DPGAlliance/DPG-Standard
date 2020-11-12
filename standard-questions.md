@@ -139,7 +139,7 @@ This document contains the set of questions that are being asked to assess each 
             <td valign="top">9.a. Data Privacy &amp; Security</td>
             <td valign="top">
                 <ul>
-                    <li>Does this project collect or store personally identifiable informatin (PII) data?</li>
+                    <li>Does this project collect or store personally identifiable information (PII) data?</li>
                     <li>If yes - please list the types of data collected and/or stored by the project:</li>
                     <li>If yes - does this project share this data with third parties?</li>
                     <li>Please describe the circumstances with which this project shares data with third parties. Please add links as relevant.</li>
