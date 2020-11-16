@@ -17,7 +17,7 @@ This document contains the set of questions that are being asked to assess each 
             <td valign="top">Can it demonstrate relevance to an SDG?</td>
             <td valign="top">
                 <ul>
-                    <li>Please identify which of the Sustainable Development Goals this project is relevant to:</li>
+                    <li>Please identify which of the [Sustainable Development Goals](https://sdgs.un.org/goals) this project is relevant to:</li>
                     <li>Please supply information to support this relevance.</li>
                     <li>Please supply links to support this relevance.</li>
                 </ul>
