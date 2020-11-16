@@ -91,7 +91,7 @@ This document contains the set of questions that are being asked to assess each 
             <td valign="top">Does this project adhere to relevant privacy laws? </td>
             <td valign="top">
                 <ul>
-                    <li>To the best of your knowledge does this project comply with all relevant privacy laws?</li>
+                    <li>To the best of your knowledge, does this project comply with all relevant privacy laws? For example, the General Data Protection Regulation (GDPR) in the European Union or the Supplementary Act A/SA.1/01/10 on Personal Data Protection for the Economic Community of West African States (ECOWAS).</li>
                     <li>If yes - please list the relevant privacy laws that the project complies with:</li>
                 </ul>
             </td>

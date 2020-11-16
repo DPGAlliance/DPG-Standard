@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 
 - Added link to https://sdgs.un.org/goals where the Sustainable Development Goals are mentioned ([#26](https://github.com/DPGAlliance/DPG-Standard/pull/26))
+- Added mention of GDPR and other regional privacy laws in the corresponding question, without altering the standard ([#20](https://github.com/DPGAlliance/DPG-Standard/pull/20))
 
 ## [1.1.1] 2020-11-12
 
