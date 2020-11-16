@@ -4,8 +4,9 @@
 
 name: Dummy CI
 
-on: 
+on:
   push:
+  pull_request:
 
 jobs:
   dummy:
