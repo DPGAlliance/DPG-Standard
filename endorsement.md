@@ -33,4 +33,4 @@ Full Name | Title | Organization
 Jon Lloyd | Director of Campaigns at Mozilla Foundation | [Mozilla Foundation](https://foundation.mozilla.org/en/)
 [Don Marti](https://github.com/dmarti) | VP, Ecosystem Innovation | [CafeMedia](https://cafemedia.com/)
 [Liv Marte Nordhaug](https://github.com/livmarte) | Secretariat Co-Lead, Digital Public Goods Alliance | [Digital Public Goods Alliance](https://digitalpublicgoods.net)
-
+[Cable Green](https://github.com/cablegreen) | Director of Open Education, Creative Commons | [Creative Commons](https://creativecommons.org/)
