@@ -1,13 +1,22 @@
 # DPG Standard Questionary
 
-This document contains the set of questions that are being asked to assess each of the indicators set forth in the [standard](standard.md).
+This document contains the set of questions that are collected in the submission form at [digitalpublicgoods.net/nominate](https://forms.gle/EwqvxdE1SRgZ4tUi9) and used to assess each of the indicators set forth in the [standard](standard.md).
+
+**Project Information Questions:** 
+<br>This information is required in order to process the nomination. 
+* Project Name: _For example, Wikipedia._
+* Project Description: _Include a concise 1-line description for this project._
+* Project Owner: _Please list the primary organization or maintainer of this project i.e. Wikimedia_
+* Project Website URL: _public website_
+* What category best describes this project?: _Select all that apply - Open Source Software, Open Data, Open AI Model, Open Standard, Open Content_
+* For Software: Public Repository URL _Required for open source software - link to public repository_
 
 <table>
     <thead>
         <tr>
             <th width="25%">Indicator: </th>
-            <th width="25%">Description</th>
-            <th width="50%">Project Requirements - Question Format</th>
+            <th width="25%">Description:</th>
+            <th width="50%">DPG Standard Assessment Questions:</th>
         </tr>
         </tr>
     </thead>
@@ -175,3 +184,8 @@ This document contains the set of questions that are being asked to assess each 
         </tr>
     </tbody>
 </table>
+
+**Additional Information Requested (not required):** 
+<br>This information is requested as part of the nomination process but is not required. 
+* What country was this project developed in?: _If it was developed across multiple countries, please list._
+* What countries is this project actively deployed in?: _If it serves multiple countries, please list or has no target deployment indicate no country-focus here.._
