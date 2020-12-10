@@ -116,12 +116,12 @@ This document contains the set of questions that are collected in the submission
         </tr>
         <tr>
             <td rowspan="2" valign="top">8. Does the project adhere to standards and best practices?</td>
-            <td valign="top">Does this project support standards? (i.e. Web Content Accessibility Guidelines (WCAG) 2.1 or other standards such as those listed on W3C)</td>
+            <td valign="top">Does this project adhere to standards? (i.e. Web Content Accessibility Guidelines (WCAG) 2.1 or other standards such as those listed on W3C)</td>
             <td valign="top">
                 <ul>
-                    <li>Does this project support standards?</li>
-                    <li>Which standards does this project support (please list)</li>
-                    <li>Can you point to evidence of your support? (i.e. please link to your validator, open test suite, etc.)</li>
+                    <li>Does this project adhere to standards?</li>
+                    <li>Which standards does this project adhere to (please list)</li>
+                    <li>Can you point to evidence of your adherence? (i.e. please link to your validator, open test suite, etc.)</li>
                 </ul>
             </td>
         </tr>
