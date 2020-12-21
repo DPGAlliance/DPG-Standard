@@ -8,11 +8,9 @@ with stability and predictabilty for the standard so that it can be a framework 
 
 ## Principles
 
-The Digital Public Goods community adheres to the following principles:
+The Digital Public Goods community adheres to the [OpenStand Principles](https://github.com/DPGAlliance/DPG-Standard/openstand.md) when developing the DPG standard.
 
-* **Open**: The Digital Public Goods Standard is open content, refer to the [license terms](README#memo-license).  
-* **Welcoming and Respectful**: See the [Code of Conduct](#code-of-conduct) below.
-* **Transparent and Accessible**: Work and collaboration on the Standard should be done in public, hence the creation and management of this repository. See [Revisions](#revisions) below.
+See [Revisions](#revisions) below.
 
 ## Code of Conduct
 
