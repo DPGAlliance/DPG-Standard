@@ -40,6 +40,8 @@ Our priority for Q4 2020 is to arrive at a stable version of the standard. Thus,
 rather than the associated set of questions. The rationale is that if the standard were to change in a significant way over the
 initial months, so would the questionary; and any preliminary work on the questions may need to be discarded.
 
+The DPG standard will refer to other organizations, standards, licenses, and terms that have broad marked consensus to contribute to the collective empowerment of global communities.
+
 ### Proposing Changes
 
 These are the suggested steps for proposing changes to the standard:
