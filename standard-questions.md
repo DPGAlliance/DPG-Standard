@@ -96,7 +96,7 @@ This document contains the set of questions that are collected in the submission
             </td>
         </tr>
         <tr>
-            <td rowspan="2" valign="top">7. Does the project adhere to privacy and other applicable international and domestic laws?</td>
+            <td valign="top">7. Does the project adhere to privacy and other applicable international and domestic laws?</td>
             <td valign="top">Does this project adhere to relevant privacy laws? </td>
             <td valign="top">
                 <ul>
@@ -106,7 +106,6 @@ This document contains the set of questions that are collected in the submission
                 </ul>
             </td>
         </tr>
-       
         <tr>
             <td rowspan="2" valign="top">8. Does the project adhere to standards and best practices?</td>
             <td valign="top">Does this project support standards? (i.e. Web Content Accessibility Guidelines (WCAG) 2.1 or other standards such as those listed on W3C)</td>
