@@ -100,20 +100,13 @@ This document contains the set of questions that are collected in the submission
             <td valign="top">Does this project adhere to relevant privacy laws? </td>
             <td valign="top">
                 <ul>
-                    <li>To the best of your knowledge, does this project comply with all relevant privacy laws? For example, the General Data Protection Regulation (GDPR) in the European Union or the Supplementary Act A/SA.1/01/10 on Personal Data Protection for the Economic Community of West African States (ECOWAS).</li>
-                    <li>If yes - please list the relevant privacy laws that the project complies with:</li>
+                    <li>Has this project taken steps to ensure adherence with relevant privacy, domestic, and international laws? For example, the General Data Protection Regulation (GDPR) in the European Union or the Supplementary Act A/SA.1/01/10 on Personal Data Protection for the Economic Community of West African States (ECOWAS).</li>
+                    <li>If yes, please list some of relevant laws that the project complies with:</li>
+                    <li> If yes, please describe the steps this project has taken to ensure adherence (include links to terms of service, privacy policy, or other relevant documentation):</li>
                 </ul>
             </td>
         </tr>
-        <tr>
-            <td valign="top">To the best of your knowledge is this project in adherence with applicable international and domestic laws?</td>
-            <td valign="top">
-                <ul>
-                    <li>To the best of your knowledge does this project comply with all applicable international and domestic laws?</li>
-                    <li>If yes - please list the applicable internation and domestic laws that the project complies with.</li>
-                </ul>
-            </td>
-        </tr>
+       
         <tr>
             <td rowspan="2" valign="top">8. Does the project adhere to standards and best practices?</td>
             <td valign="top">Does this project support standards? (i.e. Web Content Accessibility Guidelines (WCAG) 2.1 or other standards such as those listed on W3C)</td>
