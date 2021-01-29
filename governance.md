@@ -14,6 +14,8 @@ The Digital Public Goods community adheres to the following principles:
 * **Welcoming and Respectful**: See the [Code of Conduct](#code-of-conduct) below.
 * **Transparent and Accessible**: Work and collaboration on the Standard should be done in public, hence the creation and management of this repository. See [Revisions](#revisions) below.
 
+Additionally, we support the [5 Core Principles of OpenStand](openstand.md).
+
 ## Code of Conduct
 
 We have adopted the [Contributor Covenant Code of Conduct v2](CODE_OF_CONDUCT.md), and we expect all members of the
