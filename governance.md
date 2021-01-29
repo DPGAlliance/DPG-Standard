@@ -2,9 +2,9 @@
 
 This is work in progress. 
 
-The purpose of this document is to present how the Digital Public Goods Alliance envisions engaging a growing community of
-contributors and stakeholders around the Digital Public Goods Standard. Our ambition is to balance responsiveness to feedback, 
-with stability and predictabilty for the standard so that it can be a framework that people can build for and to.
+The purpose of this document is to present how the Digital Public Goods Alliance envisions engaging a growing community of contributors and stakeholders around the Digital Public Goods Standard. Our ambition is to balance responsiveness to feedback, with stability and predictabilty for the standard so that it can be a framework that people can build for and to.
+
+The DPG Standard leverages the frameworks, standards and definitions of specific organizations that have broad market consensus and which contribute to facilitating the discovery, development, use of, and investment in digital public goods. Specific organizations with which the DPG Standard aligns today include: Open Source Initiative (OSI), Creative Commons and Open Data Commons.
 
 ## Principles
 
@@ -32,7 +32,7 @@ projects or products, and validate whether they conform to the standard, and can
 
 ### Priority
 
-Our priority for Q4 2020 is to arrive at a stable version of the standard. Thus, we ask all comments and edits to be centered around the standard 
+Our priority for Q4/2020 and Q1/2021 is to arrive at a stable version of the standard. Thus, we ask all comments and edits to be centered around the standard 
 rather than the associated set of questions. The rationale is that if the standard were to change in a significant way over the
 initial months, so would the questionary; and any preliminary work on the questions may need to be discarded.
 
