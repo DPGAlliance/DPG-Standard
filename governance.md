@@ -12,6 +12,8 @@ The Digital Public Goods community adheres to the [OpenStand Principles](https:/
 
 See [Revisions](#revisions) below.
 
+Additionally, we support the [5 Core Principles of OpenStand](openstand.md).
+
 ## Code of Conduct
 
 We have adopted the [Contributor Covenant Code of Conduct v2](CODE_OF_CONDUCT.md), and we expect all members of the

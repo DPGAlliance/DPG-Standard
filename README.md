@@ -1,18 +1,20 @@
 [![CC BY-SA 4.0][cc-by-sa-shield]](LICENSE)
 [![Contributor Covenant][code-of-conduct-shield]](CODE_OF_CONDUCT.md)
 
+<a href="https://open-stand.org"><img alt="OpenStand Group Logo" height="64px" width="64px" src="https://open-stand.org/wp-content/uploads/2012/08/128x128-green1.png"> </a><br />
+
 <p align="center">
     <img alt="oss image" src="docs/standard-badge.svg" height="150px" width="150px">
 </p>
 <h1 align="center">Digital Public Goods Standard</h1>
 
-The [digital public goods standard](standard.md) is a set of specifications and guidelines designed to maximize consensus about whether something conforms to the definition of digital public goods as laid out by the UN Secretary General in the 2020 Roadmap to Digital Cooperation: *digital public goods must be open source software, open data, open AI models, open standards and open content that adhere to privacy and other applicable laws and best practices, do no harm, and help attain the Sustainable Development Goals (SDGs).*
+The [Digital Public Goods Standard](standard.md) is a set of specifications and guidelines designed to maximize consensus about whether something conforms to the definition of digital public goods as laid out by the UN Secretary General in the 2020 Roadmap to Digital Cooperation: *digital public goods must be open source software, open data, open AI models, open standards and open content that adhere to privacy and other applicable laws and best practices, do no harm, and help attain the Sustainable Development Goals (SDGs).*
 
-This standard establishes a baseline of quality that must be met in order to earn recognition as a digital public good by the [Digital Public Goods Alliance](https://digitalpublicgoods.net) and broader community. The standard itself is [open to contribution](standard.md) and we invite anyone who uses and benefits from the standard to [join our growing list of endorsers](endorsement.md). 
+This standard establishes a baseline of quality that must be met in order to earn recognition as a digital public good by the [Digital Public Goods Alliance](https://digitalpublicgoods.net) and broader community. The standard itself is [open to contribution](standard.md) and we invite anyone who uses and benefits from the standard to [join our growing list of endorsers](endorsement.md). The Digital Public Goods Alliance supports the [5 Core Principles of OpenStand](openstand.md) in the development of the Digital Public Goods Standard.
 
 ## 🔎 Current Version
 
-[The Standard](standard.md) is currently at version 1.1.3, published on Dec. 3, 2020; view the [changelog](https://github.com/DPGAlliance/DPG-Standard/blob/master/CHANGELOG.md).
+[The Standard](standard.md) is currently at version 1.1.4, published on Jan. 29, 2021; view the [changelog](https://github.com/DPGAlliance/DPG-Standard/blob/master/CHANGELOG.md).
 
 ## ✅ Application of the Standard
 

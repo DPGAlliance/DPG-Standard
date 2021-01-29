@@ -4,6 +4,25 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## Unreleased
+
+### Added
+
+- Add support for OpenStand ([#38](https://github.com/DPGAlliance/DPG-Standard/pull/38))
+
+## [1.1.4] 2021-01-29
+
+### Added
+
+- Added informational questions to the DPG Standard Questionary ([#31](https://github.com/DPGAlliance/DPG-Standard/pull/31))
+- Added three new endorsements ([39446fa](https://github.com/DPGAlliance/DPG-Standard/commit/39446fa415f0260c5bd92e40aa37b16b52398551))
+- Added a new endorsement ([#43](https://github.com/DPGAlliance/DPG-Standard/pull/43))
+
+## Changed
+
+- Renamed two indicators for clarity ([#41](https://github.com/DPGAlliance/DPG-Standard/pull/41))
+- Updating the questions for indicator 7 as per #35 ([1088ec6](https://github.com/DPGAlliance/DPG-Standard/commit/1088ec6a94e3070c8ed8ecbe5f33cb179766384a))
+
 ## [1.1.3] 2020-12-03
 
 ## Changed
@@ -70,6 +89,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Released first version of the Digital Public Good Standard in consultation with a number of key stakeholders at the intersection of open source and social good.
 
+[1.1.4]: https://github.com/DPGAlliance/DPG-Standard/compare/v1.1.3...v1.1.4
 [1.1.3]: https://github.com/DPGAlliance/DPG-Standard/compare/v1.1.2...v1.1.3
 [1.1.2]: https://github.com/DPGAlliance/DPG-Standard/compare/v1.1.1...v1.1.2
 [1.1.1]: https://github.com/DPGAlliance/DPG-Standard/compare/v1.1.0...v1.1.1
