@@ -4,17 +4,23 @@ On August 12, 2012, the [Institute of Electrical and Electronics Engineers](http
 
 **There are five, key OpenStand Principles, as outlined below:**
 
-**1. Cooperation** Respectful cooperation between standards organizations, whereby each respects the autonomy, integrity, processes, and intellectual property rules of the others.
+### 1. Cooperation
 
-**2. Adherence to Principles** - Adherence to the five fundamental principles of standards development, namely
+Respectful cooperation between standards organizations, whereby each respects the autonomy, integrity, processes, and intellectual property rules of the others.
 
-- _ **Due process:** _ Decisions are made with equity and fairness among participants. No one party dominates or guides standards development. Standards processes are transparent and opportunities exist to appeal decisions. Processes for periodic standards review and updating are well defined.
-- _ **Broad consensus:** _ Processes allow for all views to be considered and addressed, such that agreement can be found across a range of interests.
-- _ **Transparency:** _ Standards organizations provide advance public notice of proposed standards development activities, the scope of work to be undertaken, and conditions for participation. Easily accessible records of decisions and the materials used in reaching those decisions are provided. Public comment periods are provided before final standards approval and adoption.
-- _ **Balance:** _ Standards activities are not exclusively dominated by any particular person, company or interest group.
-- _ **Openness:** _ Standards processes are open to all interested and informed parties.
+### 2. Adherence to Principles
 
-**3. Collective Empowerment** Commitment by affirming standards organizations and their participants to collective empowerment by striving for standards that:
+Adherence to the five fundamental principles of standards development, namely
+
+- **Due process:** Decisions are made with equity and fairness among participants. No one party dominates or guides standards development. Standards processes are transparent and opportunities exist to appeal decisions. Processes for periodic standards review and updating are well defined.
+- **Broad consensus:** Processes allow for all views to be considered and addressed, such that agreement can be found across a range of interests.
+- **Transparency:** Standards organizations provide advance public notice of proposed standards development activities, the scope of work to be undertaken, and conditions for participation. Easily accessible records of decisions and the materials used in reaching those decisions are provided. Public comment periods are provided before final standards approval and adoption.
+- **Balance:** Standards activities are not exclusively dominated by any particular person, company or interest group.
+- **Openness:** Standards processes are open to all interested and informed parties.
+
+### 3. Collective Empowerment
+
+Commitment by affirming standards organizations and their participants to collective empowerment by striving for standards that:
 
 - are chosen and defined based on technical merit, as judged by the contributed expertise of each participant;
 - provide global interoperability, scalability, stability, and resiliency;
@@ -22,6 +28,10 @@ On August 12, 2012, the [Institute of Electrical and Electronics Engineers](http
 - serve as building blocks for further innovation; and
 - contribute to the creation of global communities, benefiting humanity.
 
-**4. Availability** Standards specifications are made accessible to all for implementation and deployment. Affirming standards organizations have defined procedures to develop specifications that can be implemented under fair terms. Given market diversity, fair terms may vary from royalty-free to [fair, reasonable, and non-discriminatory](https://en.wikipedia.org/wiki/Fair,_reasonable,_and_non-discriminatory) terms (FRAND).
+### 4. Availability
 
-**5. Voluntary Adoption** Standards are voluntarily adopted and success is determined by the market.
+Standards specifications are made accessible to all for implementation and deployment. Affirming standards organizations have defined procedures to develop specifications that can be implemented under fair terms. Given market diversity, fair terms may vary from royalty-free to [fair, reasonable, and non-discriminatory](https://en.wikipedia.org/wiki/Fair,_reasonable,_and_non-discriminatory) terms (FRAND).
+
+### 5. Voluntary Adoption
+
+Standards are voluntarily adopted and success is determined by the market.
