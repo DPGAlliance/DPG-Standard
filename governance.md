@@ -8,11 +8,7 @@ with stability and predictabilty for the standard so that it can be a framework 
 
 ## Principles
 
-The Digital Public Goods community adheres to the [OpenStand Principles](https://github.com/DPGAlliance/DPG-Standard/openstand.md) when developing the DPG standard.
-
-See [Revisions](#revisions) below.
-
-Additionally, we support the [5 Core Principles of OpenStand](openstand.md).
+The Digital Public Goods community adheres to the [OpenStand Principles](openstand.md) when developing the DPG standard.
 
 ## Code of Conduct
 
