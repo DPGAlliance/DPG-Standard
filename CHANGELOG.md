@@ -14,6 +14,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Clarified language on DPGA's relationship to other organizations in the space  ([#40](https://github.com/DPGAlliance/DPG-Standard/pull/40))
 - Grammatical edits to governance.md ([#46](https://github.com/DPGAlliance/DPG-Standard/pull/46))
+- Grammatical edits to standards.md ([#45](https://github.com/DPGAlliance/DPG-Standard/pull/45))
 
 ## [1.1.4] 2021-01-29
 
