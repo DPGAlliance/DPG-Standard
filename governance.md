@@ -59,7 +59,7 @@ intended meaning of the existing indicators, nor introduce or remove key concept
 
 * [![](https://img.shields.io/badge/-major_change-FFA500)](https://github.com/DPGAlliance/DPG-Standard/labels/major%20change) These are modifications 
 that alter the existing indicators in significant ways that have broader implications, but they do not challenge the purpose or scope of the DPG Standard.
-These may also include reorganization of the various sections of the DPG Standard, removing existing sections enitrely, or adding new indicators to the DPG Standard.
+These may also include reorganization of the various sections of the DPG Standard, removing existing sections entirely, or adding new indicators to the DPG Standard.
 
 * [![](https://img.shields.io/badge/-fundamental-b60205)](https://github.com/DPGAlliance/DPG-Standard/labels/fundamental) These involve
 fundamental or philosophical changes that challenge the purpose, scope, or very existence of the DPG Standard.
