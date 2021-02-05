@@ -14,7 +14,7 @@ The DPG Standard establishes a baseline that must be met in order to earn recogn
 
 ## 🔎 Current Version
 
-[The DPGA Standard](standard.md) is currently at version 1.1.4, published on Jan. 29, 2021; view the [changelog](https://github.com/DPGAlliance/DPG-Standard/blob/master/CHANGELOG.md).
+[The DPG Standard](standard.md) is currently at version 1.1.4, published on Jan. 29, 2021; view the [changelog](https://github.com/DPGAlliance/DPG-Standard/blob/master/CHANGELOG.md).
 
 ## ✅ Application of the DPG Standard
 
@@ -22,7 +22,7 @@ We encourage creators, maintainers, funders, implementers, and consumers to use 
 
 ![Vetting Process](docs/process.svg)
 
-We apply the DPG Standard to projects on our platform that have either been [nominated directly](https://docs.google.com/forms/d/e/1FAIpQLSdGzlBiecPBlVvJXmcMKXF3zdxASY8vGnrdnNNwp7fVKb169A/viewform) or have been pulled together from partnership databases. Projects that are submitted to our platform will undergo three stages of review to ensure they meet the requirements set in the DPG Standard. As a project undergoes various reviews it will move from **nominee**, to **candidate**, to a fully reviewed **digital public good**. 
+We apply the DPG Standard to projects on our platform that have either been [nominated directly](https://docs.google.com/forms/d/e/1FAIpQLSdGzlBiecPBlVvJXmcMKXF3zdxASY8vGnrdnNNwp7fVKb169A/viewform) or have been pulled together from partnership databases. Projects that are submitted to our platform will undergo three stages of review to ensure they meet the requirements set in the DPG Standard. As a project undergoes various reviews it will move from **nominee** to a fully reviewed **digital public good**. 
 
 Movement through the process is transparently displayed on GitHub and can be [viewed here](https://github.com/unicef/publicgoods-candidates/pulls). If a project meets the DPG Standard it will be officially considered a digital public good and will appear as such in the DPG Registry, and may be eligible for additional recognition and support.
 
@@ -42,7 +42,7 @@ At the DPGA, we envision a growing community of contributors and stakeholders ar
 
 ## 🙏 Acknowledgements
 
-Thank you to all the individuals that contributed to and [endorsed](endorsement.md) the DPG Standard, as well as well as to the participants of the **Early Grade Reading Community of Practice**. We also thank the following organizations: UNICEF,iSPIRT, Government of Sierra Leone, Government of Norway. and the DPGA Secretariat.
+Thank you to all the individuals that contributed to and [endorsed](endorsement.md) the DPG Standard, as well as well as to the participants of the **Early Grade Reading Community of Practice**. We also thank the following organizations: UNICEF,iSPIRT, Government of Sierra Leone, Government of Norway, and the DPGA Secretariat.
 
 *Image Credit: [Badge](https://thenounproject.com/search/?q=seal+of+approval&i=32270) by André Luiz from [the Noun Project](http://thenounproject.com/), released under a CC license.*
 
