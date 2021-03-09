@@ -59,8 +59,8 @@ This document contains the set of questions that are collected in the submission
             </td>
         </tr>
         <tr>
-            <td valign="top">4. Does the license of libraries/dependencies undermind the openess of the project?</td>
-            <td valign="top"> i.e. This can be through copyright, trademark, or other publicly available information. </td>
+            <td valign="top">4. Does the license of libraries/dependencies undermine the openess of the project?</td>
+            <td valign="top">  </td>
             <td valign="top">
                 <ul>
                     <li>Does this open project have mandatory dependencies (i.e. libraries, hardware) that create more restrictions than the original license?</li>
