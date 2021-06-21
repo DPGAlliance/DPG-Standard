@@ -39,5 +39,6 @@ Jon Lloyd | Director of Campaigns at Mozilla Foundation | [Mozilla Foundation](h
 [Cliff Schmidt](https://www.linkedin.com/in/cliffschmidt/) | Executive Director, Amplio Network | [Amplio Network](https://www.amplio.org/)
 [Sudhanshu Shekhar](https://www.linkedin.com/in/sudshekhar02/) | Fellow, iSPIRT |[iSPIRT](https://ispirt.in/)
 [Dau Thuy Ha](https://www.linkedin.com/in/dauthuyha/) | Co-founder, CEO, The Online Management Training Company (OMT), Vietnam | [The Online Management Training Company (OMT), Vietnam](http://omt.vn)
+[Fabien Benetou](https://fabien.benetou.fr) | UNICEF Innovation Fund WebXR technical advisor, European Parliament Innovation lab WebXR consultant | UNICEF, European Parliament
 
 
