@@ -21,6 +21,7 @@ Two ways to endorse the standard:
 Full Name | Title | Organization
 --- | --- | ---
 [Sean Blaschke](https://github.com/seanblaschke) | Technology for Development Business Analyst, UNICEF Eastern and Southern Africa Regional Office | [UNICEF](https://www.unicef.org/)
+[Fabien Benetou](https://fabien.benetou.fr) | UNICEF Innovation Fund WebXR technical advisor, European Parliament Innovation lab WebXR consultant | UNICEF, European Parliament
 [Edward Cable](https://www.linkedin.com/in/edcable/) | President/CEO, The Mifos Initiative | [The Mifos Initiative](https://mifos.org)
 [Michael Downey](https://floss.social/@downey) | Director of Community, Open Source Center | [Digital Impact Alliance @ United Nations Foundation](https://digitalimpactalliance.org/)
 [Justin W. Flory](https://jwf.io) | Open Source Technical Advisor, UNICEF Office of Innovation | [UNICEF Innovation Fund](https://unicefinnovationfund.org/)
@@ -39,6 +40,6 @@ Jon Lloyd | Director of Campaigns at Mozilla Foundation | [Mozilla Foundation](h
 [Cliff Schmidt](https://www.linkedin.com/in/cliffschmidt/) | Executive Director, Amplio Network | [Amplio Network](https://www.amplio.org/)
 [Sudhanshu Shekhar](https://www.linkedin.com/in/sudshekhar02/) | Fellow, iSPIRT |[iSPIRT](https://ispirt.in/)
 [Dau Thuy Ha](https://www.linkedin.com/in/dauthuyha/) | Co-founder, CEO, The Online Management Training Company (OMT), Vietnam | [The Online Management Training Company (OMT), Vietnam](http://omt.vn)
-[Fabien Benetou](https://fabien.benetou.fr) | UNICEF Innovation Fund WebXR technical advisor, European Parliament Innovation lab WebXR consultant | UNICEF, European Parliament
+
 
 
