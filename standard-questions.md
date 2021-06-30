@@ -128,7 +128,6 @@ This document contains the set of questions that are collected in the submission
         </tr>
         <tr>
             <td rowspan="4" valign="top">9. Does the project do no harm? </td>
-            <td valign="top">Has this project taken steps to anticipate, prevent and do no harm? </td>
             <td valign="top">
                 <ul>
                     <li>On the whole, does this project take steps to ensure that it anticipates, prevents and does no harm?</li>
