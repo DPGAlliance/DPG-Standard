@@ -114,9 +114,22 @@ Follow these steps to release a new version:
     - Enter the `Release title`, for example `v1.0.1` consistent with the preceeding steps.
     - In the `Describe this release`, copy and paste the text from the CHANGELOG for this version in *raw form* (it's markdown after all). Preview and verify that it looks good (you can edit this information again later, no big deal if something is wrong in the description).
 
+## Propagating Changes
+
+This repository [DPGAlliance/DPG-Standard](https://github.com/DPGAlliance/DPG-Standard) is the source of truth for any information pertaining to the **Digital Public Goods Standard**, and any changes to the information contained herein need to be propagated and synced with the following list of resources, where applicable:
+
+1. The DPGA website contains https://digitalpublicgoods.net/standard/ which needs to be updated manually matching the contents of [standard.md](https://github.com/DPGAlliance/DPG-Standard/blob/master/standard.md).
+2. The DPGA website also contains the [submission guide](https://digitalpublicgoods.net/submission-guide/) which needs to be updated manually.
+3. The [unicef/publicgoods-candidates](https://github.com/unicef/publicgoods-candidates) repository needs the following to be updated:
+    * the [nominee-schema.json](https://github.com/unicef/publicgoods-candidates/blob/master/nominee-schema.json)
+    * the [screening-schema.json](https://github.com/unicef/publicgoods-candidates/blob/master/screening-schema.json)
+    * propagate any changes to all encoded nominees and digital public goods.
+4. The [Submission Form](https://digitalpublicgoods.net/submission) through the [unicef/publicgoods-submission](https://github.com/unicef/publicgoods-submission) repository, and its corresponding [schema.js](https://github.com/lacabra/submission-digitalpublicgoods/blob/master/schemas/schema.js)
+5. The [Eligibility Form](https://digitalpublicgoods.net/eligibility/) through the [unicef/publicgoods-scripts](https://github.com/unicef/publicgoods-submission) repository, by editing [quizQuestions.js](https://github.com/unicef/publicgoods-scripts/blob/master/packages/eligibility/src/api/quizQuestions.js)
+
+
 # Current Roles
 
 * [Liv Marte Nordhaug](https://github.com/livmarte), Secretariat Co-Lead
 * [Lucy Harris](https://github.com/lucyeoh), Secretariat Co-Lead
-* [Christer Gundersen](https://github.com/christer-io), Technical Lead
 * [Victor Grau Serrat](https://github.com/lacabra), Technical Lead, current moderator.
