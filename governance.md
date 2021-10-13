@@ -132,5 +132,4 @@ This repository [DPGAlliance/DPG-Standard](https://github.com/DPGAlliance/DPG-St
 
 * [Liv Marte Nordhaug](https://github.com/livmarte), Secretariat Co-Lead
 * [Lucy Harris](https://github.com/lucyeoh), Secretariat Co-Lead
-* [Christer Gundersen](https://github.com/christer-io), Technical Lead
 * [Victor Grau Serrat](https://github.com/lacabra), Technical Lead, current moderator.
