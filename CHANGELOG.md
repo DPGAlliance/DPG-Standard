@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - Add support for OpenStand ([#38](https://github.com/DPGAlliance/DPG-Standard/pull/38))
+- Add mention of 'content to Indicator 6  ([#50](https://github.com/DPGAlliance/DPG-Standard/pull/50), [#100](https://github.com/DPGAlliance/DPG-Standard/pull/100))
 
 ### Changed
 
