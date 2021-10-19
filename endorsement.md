@@ -21,6 +21,7 @@ Two ways to endorse the standard:
 Full Name | Title | Organization
 --- | --- | ---
 [Sean Blaschke](https://github.com/seanblaschke) | Technology for Development Business Analyst, UNICEF Eastern and Southern Africa Regional Office | [UNICEF](https://www.unicef.org/)
+[Fabien Benetou](https://fabien.benetou.fr) | UNICEF Innovation Fund WebXR technical advisor, European Parliament Innovation lab WebXR consultant | UNICEF, European Parliament
 [Edward Cable](https://www.linkedin.com/in/edcable/) | President/CEO, The Mifos Initiative | [The Mifos Initiative](https://mifos.org)
 [Michael Downey](https://floss.social/@downey) | Director of Community, Open Source Center | [Digital Impact Alliance @ United Nations Foundation](https://digitalimpactalliance.org/)
 [Justin W. Flory](https://jwf.io) | Open Source Technical Advisor, UNICEF Office of Innovation | [UNICEF Innovation Fund](https://unicefinnovationfund.org/)
@@ -29,13 +30,17 @@ Full Name | Title | Organization
 [Victor Grau Serrat](https://github.com/lacabra) | Technical Lead, UNICEF Office of Innovation | [UNICEF](https://www.unicef.org/innovation/)
 [Cable Green](https://github.com/cablegreen) | Director of Open Education, Creative Commons | [Creative Commons](https://creativecommons.org/)
 [Christer Gundersen](https://github.com/christer-io) | Technical Lead, Digital Public Goods Alliance | [Digital Public Goods Alliance](https://digitalpublicgoods.net)
+[Haiting Han](https://ifro.ku.dk/english/staff/staffproduction/?pure=en/persons/669864) | PhD fellow | University of Copenhagen  
 [Lucy Harris](https://github.com/lucyeoh) | Secretariat Co-Lead, Digital Public Goods Alliance | [Digital Public Goods Alliance](https://digitalpublicgoods.net)
 [Georg J.P. Link](https://github.com/GeorgLink) | Open Source Strategist | [CHAOSS](https://chaoss.community/)
 Jon Lloyd | Director of Campaigns at Mozilla Foundation | [Mozilla Foundation](https://foundation.mozilla.org/en/)
 [Don Marti](https://github.com/dmarti) | VP, Ecosystem Innovation | [CafeMedia](https://cafemedia.com/)
+[Martin Mbaga](https://www.linkedin.com/in/martinmbaga)| Senior Digital For Development Expert | [Impalabridge](https://twitter.com/Impalabridge)
 [Liv Marte Nordhaug](https://github.com/livmarte) | Secretariat Co-Lead, Digital Public Goods Alliance | [Digital Public Goods Alliance](https://digitalpublicgoods.net)
 [Cliff Schmidt](https://www.linkedin.com/in/cliffschmidt/) | Executive Director, Amplio Network | [Amplio Network](https://www.amplio.org/)
 [Sudhanshu Shekhar](https://www.linkedin.com/in/sudshekhar02/) | Fellow, iSPIRT |[iSPIRT](https://ispirt.in/)
+[Bodhish Thomas](https://www.linkedin.com/in/bodhish/) | Chief Network Architect, Coronasafe Network | [Coronasafe Network](http://coronasafe.network/)
 [Dau Thuy Ha](https://www.linkedin.com/in/dauthuyha/) | Co-founder, CEO, The Online Management Training Company (OMT), Vietnam | [The Online Management Training Company (OMT), Vietnam](http://omt.vn)
+
 
 
