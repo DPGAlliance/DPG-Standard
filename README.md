@@ -8,6 +8,8 @@
 </p>
 <h1 align="center">Digital Public Goods Standard</h1>
 
+this is a test
+
 The [Digital Public Goods Standard](standard.md) is a set of specifications and guidelines designed to maximize consensus about whether a project conforms to the definition of digital public goods set by the UN Secretary-General in the [2020 Roadmap for Digital Cooperation](https://www.un.org/en/content/digital-cooperation-roadmap/): *digital public goods must be open source software, open data, open AI models, open standards, and open content that adhere to privacy and other applicable laws and best practices, do no harm, and help attain the Sustainable Development Goals (SDGs).*
 
 The DPG Standard establishes a baseline that must be met in order to earn recognition as a digital public good by the [Digital Public Goods Alliance](https://digitalpublicgoods.net) (DPGA) and the broader community. The DPG Standard is an open project and therefore [open to contribution](standard.md). The DPGA supports the [5 Core Principles of OpenStand](openstand.md) in the development of the DPG Standard. We invite anyone who uses and benefits from the DPG Standard to [join our growing list of endorsers](endorsement.md). 
