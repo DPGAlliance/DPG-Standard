@@ -39,8 +39,10 @@ Jon Lloyd | Director of Campaigns at Mozilla Foundation | [Mozilla Foundation](h
 [Liv Marte Nordhaug](https://github.com/livmarte) | Secretariat Co-Lead, Digital Public Goods Alliance | [Digital Public Goods Alliance](https://digitalpublicgoods.net)
 [Cliff Schmidt](https://www.linkedin.com/in/cliffschmidt/) | Executive Director, Amplio Network | [Amplio Network](https://www.amplio.org/)
 [Sudhanshu Shekhar](https://www.linkedin.com/in/sudshekhar02/) | Fellow, iSPIRT |[iSPIRT](https://ispirt.in/)
+[Surendrasingh Sucharia](https://github.com/surendrasinghs) | Product and Growth Lead, EkStep; Chief Evangelist for [Sunbird](https://sunbird.org) | [EkStep Foundation](https://ekstep.org)
 [Bodhish Thomas](https://www.linkedin.com/in/bodhish/) | Chief Network Architect, Coronasafe Network | [Coronasafe Network](http://coronasafe.network/)
 [Dau Thuy Ha](https://www.linkedin.com/in/dauthuyha/) | Co-founder, CEO, The Online Management Training Company (OMT), Vietnam | [The Online Management Training Company (OMT), Vietnam](http://omt.vn)
+
 
 
 
