@@ -8,7 +8,7 @@ This document contains the set of questions that are collected in the submission
 * Project Description: _Include a concise 1-line description for this project._
 * Project Owner: _Please list the primary organization or maintainer of this project i.e. Wikimedia_
 * Project Website URL: _public website_
-* What category best describes this project?: _Select all that apply - Open Source Software, Open Data, Open AI Model, Open Standard, Open Content_
+* What category best describes this project?: _Select all that apply - Open Source Software, Open Datasets, Open AI Model, Open Standard, Open Content Colletions_
 * For Software: Public Repository URL _Required for open source software - link to public repository_
 
 <table>
@@ -74,7 +74,7 @@ This document contains the set of questions that are collected in the submission
             <td valign="top">Does some documentation exist of the source code, use cases, and/or functional requirements for this project?</td>
             <td valign="top">
                 <ul>
-                    <li>Does some documentation exist of the source code, use cases, and/or functional requirements.<br>For software projects, this should be present as technical documentation that would allow a technical person unfamiliar with the project to launch and run the software. For data projects, this should be present as documentation that describes all the fields in the set, and provides context on how the data was collected and how it should be interpreted. For content, this should indicate any relevant compatible apps, software, hardware required to access the content and any instructions about how to use it.</li>
+                    <li>Does some documentation exist of the source code, use cases, and/or functional requirements.<br>For software projects, this should be present as technical documentation that would allow a technical person unfamiliar with the project to launch and run the software. For datasets and data projects, this should be present as documentation that describes all the fields in the set, and provides context on how the data was collected and how it should be interpreted. For content collections, this should indicate any relevant compatible apps, software, hardware required to access the content and any instructions about how to use it.</li>
                     <li>If yes - please link to the relevant documentation:</li>
                 </ul>
             </td>
