@@ -61,8 +61,8 @@ representative at an online or offline event.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement by emailing 
-[hello@digitalpubligoods.net](mailto:info@digitalpublicgoods.net) or contacting 
-[Lucy Harris](https://github.com/Lucyeoh) or [Victor Grau Serrat](https://github.com/lacabra).
+[hello@digitalpubligoods.net](mailto:hello@digitalpublicgoods.net) or contacting 
+[Lucy Harris](https://github.com/Lucyeoh).
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
