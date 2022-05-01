@@ -18,7 +18,7 @@ The DPG Standard establishes a baseline that must be met in order to earn recogn
 
 ## ✅ Application of the DPG Standard
 
-We encourage creators, maintainers, funders, implementers, and consumers to use this standard to recognize, assess, and support digital public goods. The standard is operationalized through a [questionary](standard-questions.md) that is required as part of the assessment process. We maintain a list of digital public goods that meet the DPG Standard described above on [our platform](https://digitalpublicgoods.net/platform). 
+We encourage creators, maintainers, funders, implementers, and consumers to use this standard to recognize, assess, and support digital public goods. The standard is operationalized through a [questionary](standard-questions.md) that is required as part of the assessment process. We maintain a list of digital public goods that meet the DPG Standard described above on [our platform](https://digitalpublicgoods.net/platform). Projects are reviewed annually and archived if they do not continue to meet the Standard, as per our [archiving policy](archiving.md).
 
 ![Vetting Process](docs/process.svg)
 
