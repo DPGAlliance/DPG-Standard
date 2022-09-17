@@ -2,8 +2,8 @@
 
 This document contains the set of questions that are collected in the submission form at [digitalpublicgoods.net/nominate](https://forms.gle/EwqvxdE1SRgZ4tUi9) and used to assess each of the indicators set forth in the [standard](standard.md).
 
-**Project Information Questions:** 
-<br>This information is required in order to process the nomination. 
+**Project Information Questions:**
+<br>This information is required in order to process the nomination.
 * Project Name: _For example, Wikipedia._
 * Project Description: _Include a concise 1-line description for this project._
 * Project Owner: _Please list the primary organization or maintainer of this project i.e. Wikimedia_
@@ -159,6 +159,7 @@ This document contains the set of questions that are collected in the submission
                     <li>If yes - please link to the relevant policy/guidelines/documentation.</li>
                     <li>If yes - does this project have mechanisms for detecting and moderating innappropriate/illegal content?</li>
                     <li>If yes - please describe the mechanism for detecting, reporting and removing innapropriate/illegal content (Please include the average response time for assessment and/or action. Link to any policies or descriptions of how inappropriate content is handled):</li>
+                    <li>If yes - please describe how the mechanism for detecting, reporting and removing innapropriate/illegal content, achieves those goals without compromising any expectations of privacy and integrity that individual creators of legal content will have:</li>
                 </ul>
             </td>
         </tr>
@@ -177,7 +178,7 @@ This document contains the set of questions that are collected in the submission
     </tbody>
 </table>
 
-**Additional Information Requested (not required):** 
-<br>This information is requested as part of the nomination process but is not required. 
+**Additional Information Requested (not required):**
+<br>This information is requested as part of the nomination process but is not required.
 * What country was this project developed in?: _If it was developed across multiple countries, please list._
 * What countries is this project actively deployed in?: _If it serves multiple countries, please list or has no target deployment indicate no country-focus here.._
