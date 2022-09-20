@@ -4,19 +4,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## Unreleased
 
-### Added
+## [1.1.5] 2022-09-20
+- Added list of IGO 3.0 licenses ([#111](https://github.com/DPGAlliance/publicgoods-candidates/blob/main/help-center/licenses.md))
 
-- Add support for OpenStand ([#38](https://github.com/DPGAlliance/DPG-Standard/pull/38))
-- Add mention of 'content to Indicator 6  ([#50](https://github.com/DPGAlliance/DPG-Standard/pull/50), [#100](https://github.com/DPGAlliance/DPG-Standard/pull/100))
-
-### Changed
-
-- Clarified language on DPGA's relationship to other organizations in the space  ([#40](https://github.com/DPGAlliance/DPG-Standard/pull/40))
-- Grammatical edits to governance.md ([#46](https://github.com/DPGAlliance/DPG-Standard/pull/46))
-- Grammatical edits to standards.md ([#45](https://github.com/DPGAlliance/DPG-Standard/pull/45))
-- Grammatical edits to README.md ([#47](https://github.com/DPGAlliance/DPG-Standard/pull/47))
 
 ## [1.1.4] 2021-01-29
 
@@ -108,3 +99,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 [1.0.2]: https://github.com/DPGAlliance/DPG-Standard/compare/v1.0.1...v1.0.2
 [1.0.1]: https://github.com/DPGAlliance/DPG-Standard/compare/v1.0.0...v1.0.1
 [1.0.0]: https://github.com/DPGAlliance/DPG-Standard/releases/tag/v1.0.0
+
+
+
+## Unreleased
+
+### Added
+
+- Add support for OpenStand ([#38](https://github.com/DPGAlliance/DPG-Standard/pull/38))
+- Add mention of 'content to Indicator 6  ([#50](https://github.com/DPGAlliance/DPG-Standard/pull/50), [#100](https://github.com/DPGAlliance/DPG-Standard/pull/100))
+
+### Changed
+
+- Clarified language on DPGA's relationship to other organizations in the space  ([#40](https://github.com/DPGAlliance/DPG-Standard/pull/40))
+- Grammatical edits to governance.md ([#46](https://github.com/DPGAlliance/DPG-Standard/pull/46))
+- Grammatical edits to standards.md ([#45](https://github.com/DPGAlliance/DPG-Standard/pull/45))
+- Grammatical edits to README.md ([#47](https://github.com/DPGAlliance/DPG-Standard/pull/47))
