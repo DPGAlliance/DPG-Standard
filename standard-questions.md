@@ -43,7 +43,7 @@ This document contains the set of questions that are collected in the submission
             </td>
             <td valign="top">
                 <ul>
-                    <li>DPGs must use an open license. Please identify which of these <a href="https://github.com/unicef/publicgoods-candidates/blob/master/docs/licenses.md" target="_blank">approved open licenses</a> this project uses: </li>
+                    <li>DPGs must use an open license. Please identify which of these <a href="https://github.com/DPGAlliance/publicgoods-candidates/blob/main/help-center/licenses.md" target="_blank">approved open licenses</a> this project uses: </li>
                      <li>Please link to where the license is indicated for this project:</li>
                 </ul>
             </td>
