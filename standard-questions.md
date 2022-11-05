@@ -63,9 +63,9 @@ This document contains the set of questions that are collected in the submission
             <td valign="top">Does the license of libraries/dependencies undermind the openess of the project?</td>
             <td valign="top">
                 <ul>
-                    <li>Does this open project have mandatory dependencies (i.e. libraries, hardware) that create more restrictions than the original license?</li>
-                    <li>If yes - are the open source components able to demonstrate independence from the closed component(s) and/or are there functional, open alternatives?</li>
-                    <li>If yes - please describe how the open source components are independent and/or list the open alternatives for the closed component:</li>
+                    <li>Does this project have mandatory proprietary components (i.e. libraries, hardware) that create more restrictions than the original open license?</li>
+                    <li>If yes - are the open source components able to demonstrate independence from the closed component(s) and/or are there functional, open functional alternatives?</li>
+                    <li>If yes - please describe how the open source components are independent and/or list the open functional alternatives for the closed component</li>
                 </ul>
             </td>
         </tr>
