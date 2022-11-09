@@ -37,12 +37,32 @@ __Where is the solution’s code repository?__
     </thead>
     <tbody>
         <tr>
-            <td valign="top">1. **SDG RELEVANCE**</td>
+            <td valign="top">1. SDG RELEVANCE</td>
             <td valign="top">Your digital solution must demonstrate relevance to one or more <a href="https://sdgs.un.org/goals" target="_blank">Sustainable Development Goals</a>
             </td>
             <td valign="top">
                 <ul>
-                    <li>Which SDGs is your solution relevant to?*</li>
+                    <li>Which SDGs is your solution relevant to?*
+                    <br>Select one or more SDGs from the list below.
+                    SDG1: End Poverty in all its forms everywhere
+                        <br>SDG2: Zero Hunger
+                        <br>SDG3: Good Health and Well-Being
+                        <br>SDG4: Quality Education
+                        <br>SDG5: Gender Equity
+                        <br>SDG6: Clean Water and Sanitation
+                        <br>SDG7: Affordable and Clean Energy
+                        <br>SDG8: Decent Work and Economic Growth
+                        <br>SDG9: Industry, Innovation and Infrastructure
+                        <br>SDG10: Reduced Inequalities
+                        <br>SDG11: Sustainable Cities and Communities
+                        <br>SDG12: Responsible Consumption and Production
+                        <br>SDG13: Climate Action
+                        <br>SDG14: Life Below Water
+                        <br>SDG15: Life on Land
+                        <br>SDG16: Peace, Justice and Strong Institutions
+                        <br>SDG17: Partnerships for the Goals
+
+                    </li>
                 </ul>
             </td>
         </tr>
