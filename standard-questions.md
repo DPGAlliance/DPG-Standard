@@ -10,7 +10,7 @@ About your digital solution
 * **Aliases (if any)**
 <br>Please mention any acronyms or aliases used to refer to your digital solution. Use commas to enter multiple names.
 
-* **Solution category**
+* __Solution category__
 <br>Please select one or more of the four categories that your digital solutions belong to. Most solutions belong to only one category.
 * Open Software
 * Open Content
