@@ -1,15 +1,30 @@
 # DPG Standard Questionary
+This document contains the set of questions that are collected in the application form at [digitalpublicgoods.net/nominate](app.digitalpublicgoods.net) and used to assess each of the indicators set forth in the DPG Standard.
 
-This document contains the set of questions that are collected in the submission form at [digitalpublicgoods.net/nominate](https://forms.gle/EwqvxdE1SRgZ4tUi9) and used to assess each of the indicators set forth in the [standard](standard.md).
+**GENERAL INFORMATION**
+About your digital solution
 
-**Project Information Questions:** 
-<br>This information is required in order to process the nomination. 
-* Project Name: _For example, Wikipedia._
-* Project Description: _Include a concise 1-line description for this project._
-* Project Owner: _Please list the primary organization or maintainer of this project i.e. Wikimedia_
-* Project Website URL: _public website_
-* What category best describes this project?: _Select all that apply - Open Source Software, Open Data, Open AI Model, Open Standard, Open Content_
-* For Software: Public Repository URL _Required for open source software - link to public repository_
+**Solution name**
+Please enter the full name of your digital solution. This will be listed on the registry if your application is accepted.
+
+**Aliases (if any)**
+Please mention any acronyms or aliases used to refer to your digital solution. Use commas to enter multiple names.
+
+**Solution category**
+Please select one or more of the four categories that your digital solutions belong to. Most solutions belong to only one category.
+* Open Software
+* Open Content
+* Open Data
+* Open AI Model
+
+**Short description**
+Please write a tweet-length description of the solution. If your application is approved, this will be reflected on the public DPG registry.
+
+**Website**
+Please provide link(s) to the website or webpage of your digital solution.
+
+**Where is the solution’s code repository?**
+Please provide link(s) to your code repo that exposes source code. This is mandatory if your solution is an Open Software solution.
 
 <table>
     <thead>
