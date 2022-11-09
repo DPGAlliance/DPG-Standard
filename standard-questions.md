@@ -11,7 +11,7 @@ __Aliases (if any)__
 <br>Please mention any acronyms or aliases used to refer to your digital solution. Use commas to enter multiple names.
 
 __Solution category__
-<br>Please select one or more of the four categories that your digital solutions belong to. Most solutions belong to only one category.
+<br>Please select one or more of the four categories that your digital solutions belong to (Most solutions belong to only one category)
 * Open Software
 * Open Content
 * Open Data
@@ -38,7 +38,7 @@ __Where is the solution’s code repository?__
     <tbody>
         <tr>
             <td valign="top">SDG RELEVANCE</td>
-            <td valign="top">Your digital solution must demonstrate relevance to one or more [Sustainable Development Goals](https://sdgs.un.org/goals)</td>
+            <td valign="top">Your digital solution must demonstrate relevance to one or more [SDGs](https://sdgs.un.org/goals)</td>
             <td valign="top">
                 <ul>
                     <li>Which SDGs is your solution relevant to?*</li>
