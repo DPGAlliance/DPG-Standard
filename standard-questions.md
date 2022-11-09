@@ -38,7 +38,8 @@ __Where is the solution’s code repository?__
     <tbody>
         <tr>
             <td valign="top">SDG RELEVANCE</td>
-            <td valign="top">Your digital solution must demonstrate relevance to one or more [SDGs](https://sdgs.un.org/goals)</td>
+            <td valign="top">Your digital solution must demonstrate relevance to one or more <a href="https://sdgs.un.org/goals" target="_blank">SDGs</a>
+            </td>
             <td valign="top">
                 <ul>
                     <li>Which SDGs is your solution relevant to?*</li>
