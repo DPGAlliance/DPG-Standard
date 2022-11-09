@@ -4,26 +4,26 @@ This document contains the set of questions that are collected in the applicatio
 ## GENERAL INFORMATION
 About your digital solution
 
-**Solution name**
+* **Solution name**
 <br>Please enter the full name of your digital solution. This will be listed on the registry if your application is accepted.
 
-**Aliases (if any)**
+* **Aliases (if any)**
 <br>Please mention any acronyms or aliases used to refer to your digital solution. Use commas to enter multiple names.
 
-**Solution category**
+* **Solution category**
 <br>Please select one or more of the four categories that your digital solutions belong to. Most solutions belong to only one category.
 * Open Software
 * Open Content
 * Open Data
 * Open AI Model
 
-**Short description**
+* **Short description**
 <br>Please write a tweet-length description of the solution. If your application is approved, this will be reflected on the public DPG registry.
 
-**Website**
+* **Website**
 <br>Please provide link(s) to the website or webpage of your digital solution.
 
-**Where is the solution’s code repository?**
+* **Where is the solution’s code repository?**
 <br>Please provide link(s) to your code repo that exposes source code. This is mandatory if your solution is an Open Software solution.
 
 <table>
