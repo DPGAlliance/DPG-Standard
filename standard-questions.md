@@ -23,7 +23,7 @@ __Short description__
 __Website__
 <br>Please provide link(s) to the website or webpage of your digital solution.
 
-* **Where is the solution’s code repository?**
+__Where is the solution’s code repository?__
 <br>Please provide link(s) to your code repo that exposes source code. This is mandatory if your solution is an Open Software solution.
 
 <table>
@@ -37,13 +37,11 @@ __Website__
     </thead>
     <tbody>
         <tr>
-            <td valign="top">1. Is it relevant to one of the Sustainable Development Goals?</td>
-            <td valign="top">Can it demonstrate relevance to an SDG?</td>
+            <td valign="top">SDG RELEVANCE</td>
+            <td valign="top">Your digital solution must demonstrate relevance to one or more [Sustainable Development Goals](https://sdgs.un.org/goals)</td>
             <td valign="top">
                 <ul>
-                    <li>Please identify which of the [Sustainable Development Goals](https://sdgs.un.org/goals) this project is relevant to:</li>
-                    <li>Please supply information to support this relevance.</li>
-                    <li>Please supply links to support this relevance.</li>
+                    <li>Which SDGs is your solution relevant to?*</li>
                 </ul>
             </td>
         </tr>
