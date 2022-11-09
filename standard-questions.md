@@ -1,183 +1,170 @@
-# DPG Standard Questionary
+This document contains the set of questions that are collected in the application form at app.digitalpublicgoods.net  and used to assess each of the indicators set forth in the DPG Standard.
+ 
+GENERAL INFORMATION
+About your digital solution
+Solution name*
+Please enter the full name of your digital solution. This will be listed on the registry if your application is accepted.
+Aliases (if any)
+Please mention any acronyms or aliases used to refer to your digital solution. Use commas to enter multiple names.
+Solution category*
+Please select one or more of the four categories that your digital solutions belong to. Most solutions belong to only one category.
+Open Software
+Open Content
+Open Data
+Open AI Model
+Short description*
+Please write a tweet-length description of the solution. If your application is approved, this will be reflected on the public DPG registry.
+Website*
+Please provide link(s) to the website or webpage of your digital solution.
+Where is the solution’s code repository?
+Please provide link(s) to your code repo that exposes source code. This is mandatory if your solution is an Open Software solution.
 
-This document contains the set of questions that are collected in the submission form at [digitalpublicgoods.net/nominate](https://forms.gle/EwqvxdE1SRgZ4tUi9) and used to assess each of the indicators set forth in the [standard](standard.md).
+1. SDG RELEVANCE
+Your digital solution must demonstrate relevance to one or more SDGs (Sustainable Development Goals).
+Which SDGs is your solution relevant to?*
+Select one or more SDGs from the list below.
+SDG1: End Poverty in all its forms everywhere
+SDG2: Zero Hunger
+SDG3: Good Health and Well-Being
+SDG4: Quality Education
+SDG5: Gender Equity
+SDG6: Clean Water and Sanitation
+SDG7: Affordable and Clean Energy
+SDG8: Decent Work and Economic Growth
+SDG9: Industry, Innovation and Infrastructure
+SDG10: Reduced Inequalities
+SDG11: Sustainable Cities and Communities
+SDG12: Responsible Consumption and Production
+SDG13: Climate Action
+SDG14: Life Below Water
+SDG15: Life on Land
+SDG16: Peace, Justice and Strong Institutions
+SDG17: Partnerships for the Goals
+How is your solution relevant to each SDG you’ve selected above?*
+Please provide information and/or link(s) to a webpage, article or documentation that adequately demonstrates relevance to each SDG selected above. Solutions that fail to do so will be out rightly rejected without a second chance for providing additional information or clarifications.
 
-**Project Information Questions:** 
-<br>This information is required in order to process the nomination. 
-* Project Name: _For example, Wikipedia._
-* Project Description: _Include a concise 1-line description for this project._
-* Project Owner: _Please list the primary organization or maintainer of this project i.e. Wikimedia_
-* Project Website URL: _public website_
-* What category best describes this project?: _Select all that apply - Open Source Software, Open Data, Open AI Model, Open Standard, Open Content_
-* For Software: Public Repository URL _Required for open source software - link to public repository_
+2. Open Licensing
+Your digital solution must use an approved open license.
+Which open license(s) is/are used by your solution?*
+Please refer here for the list of approved open licenses accepted. If you do not currently use one of the approved licenses, your solution cannot be approved as a DPG.
+Provide evidence of use of the selected open license(s).*
+Please provide link(s) to public pages where the license(s) selected above are hosted for this project. This could be a license file in GitHub repository or a public URL on the project website.
 
-<table>
-    <thead>
-        <tr>
-            <th width="25%">Indicator: </th>
-            <th width="25%">Description:</th>
-            <th width="50%">DPG Standard Assessment Questions:</th>
-        </tr>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td valign="top">1. Is it relevant to one of the Sustainable Development Goals?</td>
-            <td valign="top">Can it demonstrate relevance to an SDG?</td>
-            <td valign="top">
-                <ul>
-                    <li>Please identify which of the [Sustainable Development Goals](https://sdgs.un.org/goals) this project is relevant to:</li>
-                    <li>Please supply information to support this relevance.</li>
-                    <li>Please supply links to support this relevance.</li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">2. Does it use an appropriate open license? </td>
-            <td valign="top">
-                <ul>
-                    <li>Does it use an open license from the OSI list for software?</li>
-                    <li>Does it use a CC license for content (non derivative)?</li>
-                    <li>Does it use an Open Data license from the Open Data Commons list?</li>
-                </ul>
-            </td>
-            <td valign="top">
-                <ul>
-                    <li>DPGs must use an open license. Please identify which of these <a href="https://github.com/DPGAlliance/publicgoods-candidates/blob/main/help-center/licenses.md" target="_blank">approved open licenses</a> this project uses: </li>
-                     <li>Please link to where the license is indicated for this project:</li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">3. Is ownership clearly defined</td>
-            <td valign="top">Is the copyright and trademark ownership of everything that the project produces clearly defined and documented?</td>
-            <td valign="top">
-                <ul>
-                    <li>Is the ownership of the project and everything that the project produces clearly defined and documented?</li>
-                    <li>If yes - please link to the relevant copyright, trademarks, or ownership documentation for the project.</li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">4. Does the license of libraries/dependencies undermine the openess of the project?</td>
-            <td valign="top">Does the license of libraries/dependencies undermind the openess of the project?</td>
-            <td valign="top">
-                <ul>
-                    <li>Does this open project have mandatory dependencies (i.e. libraries, hardware) that create more restrictions than the original license?</li>
-                    <li>If yes - are the open source components able to demonstrate independence from the closed component(s) and/or are there functional, open alternatives?</li>
-                    <li>If yes - please describe how the open source components are independent and/or list the open alternatives for the closed component:</li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">5. Is there documentation?</td>
-            <td valign="top">Does some documentation exist of the source code, use cases, and/or functional requirements for this project?</td>
-            <td valign="top">
-                <ul>
-                    <li>Does some documentation exist of the source code, use cases, and/or functional requirements.<br>For software projects, this should be present as technical documentation that would allow a technical person unfamiliar with the project to launch and run the software. For data projects, this should be present as documentation that describes all the fields in the set, and provides context on how the data was collected and how it should be interpreted. For content, this should indicate any relevant compatible apps, software, hardware required to access the content and any instructions about how to use it.</li>
-                    <li>If yes - please link to the relevant documentation:</li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">6. Does this project collect or use non-personally identifiable information (non-PII) data/ content?</td>
-            <td valign="top">Is there a mechanism for extracting or importing non-PII data/content from the system in a non-proprietary format?</td>
-            <td valign="top">
-                <ul>
-                    <li>Does this project collect or use non-personally identifiable information (PII) data/content? </li>
-                    <li>If yes - is there a mechanism for extracting or importing non-PII data/content from the system in a non-proprietary format?</li>
-                    <li>If yes - describe the mechanism for extracting or importing non-personally identifiable information from the system in a non-proprietary format:</li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td colspan="3" style="background-color:lightgrey">
-                Note that requirements related to indicators 7-9 can only be answered by someone authorized to speak on behalf of the project.
-            </td>
-        </tr>
-          <tr>
-            <td valign="top">7. Does the project adhere to privacy and other applicable international and domestic laws?</td>
-            <td valign="top">Does this project adhere to relevant privacy, domestic, and international laws?</td>
-            <td valign="top">
-                <ul>
-                    <li>Has this project taken steps to ensure adherence with relevant privacy, domestic, and international laws? For example, the General Data Protection Regulation (GDPR) in the European Union or the Supplementary Act A/SA.1/01/10 on Personal Data Protection for the Economic Community of West African States (ECOWAS) (yes/no)</li>
-                    <li>If yes, please list some of relevant laws that the project complies with:</li>
-                    <li>If yes, please describe the steps this project has taken to ensure adherence (include links to terms of service, privacy policy, or other relevant documentation):</li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td rowspan="2" valign="top">8. Does the project adhere to standards and best practices?</td>
-            <td valign="top">Does this project support standards? (i.e. Web Content Accessibility Guidelines (WCAG) 2.1 or other standards such as those listed on W3C)</td>
-            <td valign="top">
-                <ul>
-                    <li>Does this project support standards?</li>
-                    <li>Which standards does this project support (please list)</li>
-                    <li>Can you point to evidence of your support? (i.e. please link to your validator, open test suite, etc.)</li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">Does this project adhere to best practices? </td>
-            <td valign="top">
-                <ul>
-                    <li>Was this project built and developed according to or in adherence with any design, technical and/or sector best practices or principles? i.e. the Principles for Digital Development?</li>
-                    <li>Which principles and best practices does this project support (please list)</li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td rowspan="4" valign="top">9. Does the project do no harm? </td>
-            <td valign="top">Has this project taken steps to anticipate, prevent and do no harm? </td>
-            <td valign="top">
-                <ul>
-                    <li>On the whole, does this project take steps to ensure that it anticipates, prevents and does no harm?</li>
-                    <li>Please describe any additional risks and mitigation steps that this project uses to prevent harm.</li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">9.a. Data Privacy &amp; Security</td>
-            <td valign="top">
-                <ul>
-                    <li>Does this project collect or store personally identifiable information (PII) data?</li>
-                    <li>If yes - please list the types of data collected and/or stored by the project:</li>
-                    <li>If yes - does this project share this data with third parties?</li>
-                    <li>Please describe the circumstances with which this project shares data with third parties. Please add links as relevant.</li>
-                    <li>If yes - does the project ensure the privacy and security of this data and has it taken steps to prevent adverse impacts resulting from its collection, storage and distribution.</li>
-                    <li>If yes - please describe the steps, and include a link to the privacy policy and/or terms of service:</li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">9.b. Inappropriate &amp; Illegal Content</td>
-            <td valign="top">
-                <ul>
-                    <li>Does this project collect, store or distribute content?</li>
-                    <li>If yes - what kinds of content does this project, collect, store or distribute? (i.e. childrens books)</li>
-                    <li>If yes - does this project have policies that describe what is considered innappropriate content? (i.e. child sexual abuse materials)</li>
-                    <li>If yes - please link to the relevant policy/guidelines/documentation.</li>
-                    <li>If yes - does this project have mechanisms for detecting and moderating innappropriate/illegal content?</li>
-                    <li>If yes - please describe the mechanism for detecting, reporting and removing innapropriate/illegal content (Please include the average response time for assessment and/or action. Link to any policies or descriptions of how inappropriate content is handled):</li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">9.c. Protection from harassment</td>
-            <td valign="top">
-                <ul>
-                    <li>Does this project facilitate interactions with or between users or contributors?</li>
-                    <li>If yes - does the project take steps to address the safety and security of underage users?</li>
-                    <li>If yes - please describe the steps this project takes to address risk or prevent access by underage users:</li>
-                    <li>If yes - does the project help users and contributors protect themselves against grief, abuse, and harassment.</li>
-                    <li>If yes - please describe the steps taken to help users protect themselves.</li>
-                </ul>
-            </td>
-        </tr>
-    </tbody>
-</table>
+3. Clear Ownership
+The organisation that owns this digital solution must be clearly defined.
+Who owns this digital solution?*
+If there is no formal organization associated with the solution, please enter names of the people who own this solution.
+Provide evidence(s) of ownership.*
+Please provide link(s) to the copyright, trademarks, or publicly available ownership documentation for the digital solutions. It could be a webpage that clearly defines who owns the digital solution. Terms of Service may also indicate the ownership of the digital solutions. Additional legal documentation that provides supporting information will strengthen your application. Digital solutions owned by a parent organisation, could highlight the digital solutions on their website to strengthen the application.
 
-**Additional Information Requested (not required):** 
-<br>This information is requested as part of the nomination process but is not required. 
-* What country was this project developed in?: _If it was developed across multiple countries, please list._
-* What countries is this project actively deployed in?: _If it serves multiple countries, please list or has no target deployment indicate no country-focus here.._
+4. Platform Independence
+If your digital solution has any mandatory dependencies that create more restrictions than the original license, then there should be open alternatives so that such dependencies can be replaced with the alternatives without making significant changes to the core digital solution.
+Does this solution use any closed components that create proprietary dependency?*
+Yes or No. You will be required to answer the next question if you select Yes.
+How can these closed component(s) be replaced with open alternative(s)?
+Please provide a list of the active open alternatives for the closed component(s) and demonstrate that these close component(s) can be replaced with those open alternatives with minimal configuration changes, without requiring a major overhaul of the entire system. This requirement can be best answered by a technical member of your team. Leave this blank if the above answer is No.
+
+5. Documentation
+Your digital solution must have strong documentation. The documentation should allow a technical person unfamiliar with the solution to launch and run the digital solution themselves.
+Where is your solution’s documentation?*
+Please summarize how and where the solution is documented along with link(s) to all relevant documents.
+For software solutions, documentation could include an open repo, technical specifications, functional requirements, etc.
+For data sets or solutions, documentation could describe all the fields in the set, and provide context on how the data was collected and how it should be interpreted.
+For content, documentation could include relevant compatible apps, software, hardware required to access the content and any instructions on how to use it.
+For more details on documentation best practices, please visit this link.
+
+6. Non-PII Data Extraction
+If your solution collects or uses non-PII data and/or content, then there must be mechanisms for extracting or importing non-PII data from or into the system in a non-proprietary format.
+Does your solution collects or uses non-PII data and/or content?*
+Yes or No. You will be required to answer the next question only if you collect or use non-PII data and/or content.
+Describe the mechanism for extracting or importing non-PII data from or into the system in a non-proprietary format.
+Please provide a detailed description of how the non-PII data can be imported or exported into non-proprietary formats such as CSV/XML/JSON etc or via exposing the non-PII data through APIs.
+
+7. Privacy & Applicable Laws
+Your digital solution must comply with relevant privacy, domestic and other applicable international laws.
+Provide a list of relevant privacy, domestic and other applicable international laws your solution complies with.*
+Please enter a list of the relevant laws that your digital solutions complies with such as General Data Protection Regulation (GDPR), Indian IT Act, Persons with Disabilities Act 2020, Canadian Disabilities Act, Americans with Disabilities Act of 1990, etc.
+Provide evidence(s) of adherence with the laws mentioned above.*
+Please provide link(s) to the privacy policy, terms of service or other relevant legal documentation as demonstrate adherence.
+
+8. Open Standards & Best Practices
+Your digital solution must comply with relevant standards, best practices and/or principles.
+Provide a list of the open standards your solution adheres to and demonstrate adherence.*
+You may provide link(s) to a validator, open test suite, etc to demonstrate adherence. Here is a list of open standards that you may find helpful.
+Provide a list of best practices & principles your solution adheres to and demonstrate adherence.*
+You may provide link(s) to a validator, open test suite, etc to demonstrate adherence. Here is a list of best practices that you may find helpful.
+
+9A. Data Privacy & Security
+If your digital solution collects, stores and distributes PII data (personally identifiable information) data, then you must demonstrate how is the privacy, security and integrity of this data is ensured.
+Does your solution collect / store / distribute PII data?*
+Please select the option that is applicable for your solution.
+PII data is NOT collected NOT stored and NOT distributed.
+PII data is collected but NOT stored and NOT distributed.
+PII data is collected and stored but NOT distributed.
+PII data is collected and stored and distributed.
+What are types of data that is collected / stored / distributed?
+Please list the types of PII data. Example: Name, Email, etc.
+How does your solution ensures data privacy & security?
+Please demonstrate how the project ensures the privacy, security and integrity of this data and the steps taken to prevent adverse impacts resulting from its collection, storage and distribution.
+9B. Inappropriate & Illegal Content
+If your digital solution collects, stores and distributes content, then you must have policies identifying inappropriate and illegal content such as child sexual abuse materials in addition to processes for detecting, moderating, reporting and removing inappropriate/ illegal content.
+Does your solution collect / store / distribute content?*
+Please select the option that is applicable for your solution.
+Content is NOT collected NOT stored and NOT distributed.
+Content is collected but NOT stored and NOT distributed.
+Content is collected and stored but NOT distributed.
+Content is collected and stored and distributed.
+What are the types of content that is collected / stored / distributed?
+Please list the types of content.
+How does your solution handles inappropriate and illegal content?
+Please describe (1) the policies for identifying inappropriate and illegal content and (2) the processes for detecting, moderating, reporting and removing inappropriate / illegal content. Please include the average response time for assessment and/or action.
+
+9C. Protection from Harassment
+If your digital solution facilitates interactions with or between users or contributors there must be a process for users and contributors to protect themselves against grief, abuse, and harassment. The project must have system(s) to address the safety and security of underage users
+Does your solution facilitate interactions with or between users and/or contributors?*
+Yes or No. Please select the option that is applicable for your solution. You will be required to answer the next question if you select Yes.
+How does your solution enables users and contributors to protect themselves from harassment?
+Please describe (1) policies such as a code of conduct and processes users and contributors can use to protect themselves and (2) processes that addresses the safety and security of underage users.
+
+Scale of Solution
+Additional information highlighting the extent and scale of your solution's implementation and success.
+Where was this solution developed?*
+Please select one or more countries.
+Where is this solution actively deployed?*
+Please select one or more countries.
+Are there any multi-lateral organisations using your solution?
+Please select from the options below.
+Food and Agriculture Organization
+International Labour Organization
+International Civil Aviation Organization
+International Maritime Organization
+International Telecommunication Union
+Joint United Nations Programme on HIV/AIDS
+United Nations Capital Development Fund
+United Nations Human Rights Council (UNHRC)
+United Nations International Children's Emergency Fund (UNICEF)
+United Nations Development Programme
+United Nations Educational, Scientific and Cultural Organization (UNESCO)
+United Nations Environment Programme
+United Nations Human Settlements Programme
+United Nations Industrial Development Organization
+United Nations Office for Disaster Risk Reduction (UNISDR)
+United Nations Office on Drugs and Crime
+Universal Postal Union
+World Health Organization (WHO)
+World Intellectual Property Organization
+World Food Programme
+World Meteorological Organization
+World Tourism Organization
+The UN maintains various offices:
+United Nations Headquarters (New York City)
+United Nations Office at Geneva
+United Nations Office at Nairobi
+United Nations Office at Vienna
+Are there any government departments and/or ministries using your solution?
+Please enter a list of country governments, ministries, and public bodies that have adopted your solution.
+Who else is using your solution?
+Please enter any other organization or body not covered in above questions that have adopted your solution
+Has your solution received any awards and/or recognition in the last one year?
+Please enter a list of awards and/or recognition received along with the awarding organisation, award title and a link to a certificate or document or image that verifies your claim for each.
+
