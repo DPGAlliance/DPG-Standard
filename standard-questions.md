@@ -1,8 +1,8 @@
 # DPG Standard Questionary
 This document contains the set of questions that are collected in the application form at [digitalpublicgoods.net/nominate](app.digitalpublicgoods.net) and used to assess each of the indicators set forth in the DPG Standard.
 
-**GENERAL INFORMATION**
-<br>About your digital solution
+## GENERAL INFORMATION
+About your digital solution
 
 **Solution name**
 <br>Please enter the full name of your digital solution. This will be listed on the registry if your application is accepted.
