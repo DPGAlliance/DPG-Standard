@@ -2,29 +2,29 @@
 This document contains the set of questions that are collected in the application form at [digitalpublicgoods.net/nominate](app.digitalpublicgoods.net) and used to assess each of the indicators set forth in the DPG Standard.
 
 **GENERAL INFORMATION**
-About your digital solution
+<br>About your digital solution
 
 **Solution name**
-Please enter the full name of your digital solution. This will be listed on the registry if your application is accepted.
+<br>Please enter the full name of your digital solution. This will be listed on the registry if your application is accepted.
 
 **Aliases (if any)**
-Please mention any acronyms or aliases used to refer to your digital solution. Use commas to enter multiple names.
+<br>Please mention any acronyms or aliases used to refer to your digital solution. Use commas to enter multiple names.
 
 **Solution category**
-Please select one or more of the four categories that your digital solutions belong to. Most solutions belong to only one category.
+<br>Please select one or more of the four categories that your digital solutions belong to. Most solutions belong to only one category.
 * Open Software
 * Open Content
 * Open Data
 * Open AI Model
 
 **Short description**
-Please write a tweet-length description of the solution. If your application is approved, this will be reflected on the public DPG registry.
+<br>Please write a tweet-length description of the solution. If your application is approved, this will be reflected on the public DPG registry.
 
 **Website**
-Please provide link(s) to the website or webpage of your digital solution.
+<br>Please provide link(s) to the website or webpage of your digital solution.
 
 **Where is the solution’s code repository?**
-Please provide link(s) to your code repo that exposes source code. This is mandatory if your solution is an Open Software solution.
+<br>Please provide link(s) to your code repo that exposes source code. This is mandatory if your solution is an Open Software solution.
 
 <table>
     <thead>
