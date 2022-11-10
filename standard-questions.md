@@ -181,7 +181,8 @@ __Where is the solution’s code repository?__
     </tbody>
 </table>
 
-**Additional Information Requested (not required):** 
-<br>This information is requested as part of the nomination process but is not required. 
-* What country was this project developed in?: _If it was developed across multiple countries, please list._
-* What countries is this project actively deployed in?: _If it serves multiple countries, please list or has no target deployment indicate no country-focus here.._
+**Scale of Solution:** 
+<br>Additional information highlighting the extent and scale of your solution's implementation and success. 
+* Where was this solution developed?*: _Please select one or more countries._
+* Where is this solution actively deployed?*: _Please select one or more countries._
+* Are there any multi-lateral organisations using your solution?: _Please select from the options below._
