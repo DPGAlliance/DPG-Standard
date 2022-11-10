@@ -86,12 +86,15 @@ __Where is the solution’s code repository?__
             </td>
         </tr>
         <tr>
-            <td valign="top">5. Is there documentation?</td>
-            <td valign="top">Does some documentation exist of the source code, use cases, and/or functional requirements for this project?</td>
+            <td valign="top">5. Documentation</td>
+            <td valign="top">Your digital solution must have strong documentation. The documentation should allow a technical person unfamiliar with the solution to launch and run the digital solution themselves.</td>
             <td valign="top">
                 <ul>
-                    <li>Does some documentation exist of the source code, use cases, and/or functional requirements.<br>For software projects, this should be present as technical documentation that would allow a technical person unfamiliar with the project to launch and run the software. For data projects, this should be present as documentation that describes all the fields in the set, and provides context on how the data was collected and how it should be interpreted. For content, this should indicate any relevant compatible apps, software, hardware required to access the content and any instructions about how to use it.</li>
-                    <li>If yes - please link to the relevant documentation:</li>
+                    <li>Where is your solution’s documentation?*<br>Please summarize how and where the solution is documented along with link(s) to all relevant documents.
+                    For software solutions, documentation could include an open repo, technical specifications, functional requirements, etc.
+                    For data sets or solutions, documentation could describe all the fields in the set, and provide context on how the data was collected and how it should be interpreted.
+                    For content, documentation could include relevant compatible apps, software, hardware required to access the content and any instructions on how to use it. For more details on documentation best practices, please visit this link. <a href="https://github.com/DPGAlliance/publicgoods-candidates/blob/main/help-center/documentation.md" target="_blank">link</a>
+                    </li>
                 </ul>
             </td>
         </tr>
