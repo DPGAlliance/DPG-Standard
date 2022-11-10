@@ -137,7 +137,7 @@ __Where is the solution’s code repository?__
             </td>
         </tr>
         <tr>
-            <td valign="top">9 A. Data Privacy & Security</td>
+            <td rowspan="2" valign="top">9 A. Data Privacy & Security</td>
             <td valign="top">If your digital solution collects, stores and distributes PII data (personally identifiable information) data, then you must demonstrate how is the privacy, security and integrity of this data is ensured
             </td>
             <td valign="top">
