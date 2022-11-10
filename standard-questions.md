@@ -54,7 +54,7 @@ __Where is the solution’s code repository?__
             </td>
             <td valign="top">
                 <ul>
-                    <li>Which open license(s) is/are used by your solution? <br>Please <a href="https://github.com/DPGAlliance/publicgoods-candidates/blob/main/help-center/licenses.md" target="_blank">refer here for the list of approved open licenses</a> accepted. If you do not currently use one of the approved licenses, your solution cannot be approved as a DPG.
+                    <li>Which open license(s) is/are used by your solution? <br>Please <a href="https://github.com/DPGAlliance/publicgoods-candidates/blob/main/help-center/licenses.md" target="_blank">refer here for the list of approved open licenses</a> accepted. (If you do not currently use one of the approved licenses, your solution cannot be approved as a DPG)
                     </li>
                     <li>Provide evidence of use of the selected open license(s).* <br>Please provide link(s) to public pages where the license(s) selected above are hosted for this project. This could be a license file in GitHub repository or a public URL on the project website.
                     </li>
@@ -62,12 +62,14 @@ __Where is the solution’s code repository?__
             </td>
         </tr>
         <tr>
-            <td valign="top">3. Is ownership clearly defined</td>
-            <td valign="top">Is the copyright and trademark ownership of everything that the project produces clearly defined and documented?</td>
+            <td valign="top">3. Clear Ownership</td>
+            <td valign="top">The organisation that owns this digital solution must be clearly defined.</td>
             <td valign="top">
                 <ul>
-                    <li>Is the ownership of the project and everything that the project produces clearly defined and documented?</li>
-                    <li>If yes - please link to the relevant copyright, trademarks, or ownership documentation for the project.</li>
+                    <li>Who owns this digital solution?* <br>If there is no formal organization associated with the solution, please enter names of the people who own this solution.
+                    </li>
+                    <li>Provide evidence(s) of ownership.*<br>Please provide link(s) to the copyright, trademarks, or publicly available ownership documentation for the digital solutions. It could be a webpage that clearly defines who owns the digital solution. Terms of Service may also indicate the ownership of the digital solutions. Additional legal documentation that provides supporting information will strengthen your application. Digital solutions owned by a parent organisation, could highlight the digital solutions on their website to strengthen the application.
+                    </li>
                 </ul>
             </td>
         </tr>
