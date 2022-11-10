@@ -150,6 +150,21 @@ __Where is the solution’s code repository?__
                 </ul>
             </td>
         </tr>
+        <tr>
+            <td valign="top">9 B. Inappropriate & Illegal Content</td>
+            <td valign="top">If your digital solution collects, stores and distributes content, then you must have policies identifying inappropriate and illegal content such as child sexual abuse materials in addition to processes for detecting, moderating, reporting and removing inappropriate/ illegal content.
+            </td>
+            <td valign="top">
+                <ul>
+                    <li>Does your solution collect / store / distribute content?*<br>Please select the option that is applicable for your solution. <br>Content is NOT collected NOT stored and NOT distributed. <br>Content is collected but NOT stored and NOT distributed. <br>Content is collected and stored but NOT distributed.<br>Content is collected and stored and distributed.
+                    </li>
+                    <li>What are the types of content that is collected / stored / distributed?<br>Please list the types of content.
+                    </li>
+                    <li>How does your solution handles inappropriate and illegal content?<br>Please describe (1) the policies for identifying inappropriate and illegal content and (2) the processes for detecting, moderating, reporting and removing inappropriate / illegal content. Please include the average response time for assessment and/or action.
+                    </li>
+                </ul>
+            </td>
+        </tr>
     </tbody>
 </table>
 
