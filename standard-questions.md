@@ -99,13 +99,15 @@ __Where is the solution’s code repository?__
             </td>
         </tr>
         <tr>
-            <td valign="top">6. Does this project collect or use non-personally identifiable information (non-PII) data/ content?</td>
-            <td valign="top">Is there a mechanism for extracting or importing non-PII data/content from the system in a non-proprietary format?</td>
+            <td valign="top">6. Non-PII Data Extraction</td>
+            <td valign="top">If your solution collects or uses non-PII data and/or content, then there must be mechanisms for extracting or importing non-PII data from or into the system in a non-proprietary format.</td>
             <td valign="top">
                 <ul>
-                    <li>Does this project collect or use non-personally identifiable information (PII) data/content? </li>
-                    <li>If yes - is there a mechanism for extracting or importing non-PII data/content from the system in a non-proprietary format?</li>
-                    <li>If yes - describe the mechanism for extracting or importing non-personally identifiable information from the system in a non-proprietary format:</li>
+                    <li>Does your solution collects or uses non-PII data and/or content?* <br> Yes or No. You will be required to answer the next question only if you collect or use non-PII data and/or content.
+                    </li>
+                    <li>Describe the mechanism for extracting or importing non-PII data from or into the system in a non-proprietary format. <br> Please provide a detailed description of how the non-PII data can be imported or exported into non-proprietary formats such as CSV/XML/JSON etc or via exposing the non-PII data through APIs.
+                    </li>
+                    
                 </ul>
             </td>
         </tr>
