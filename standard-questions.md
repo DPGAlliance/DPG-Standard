@@ -131,16 +131,8 @@ __Where is the solution’s code repository?__
             <td valign="top">
                 <ul>
                     <li>Provide a list of the open standards your solution adheres to and demonstrate adherence.* <br>You may provide link(s) to a validator, open test suite, etc to demonstrate adherence. Here is a list of <a href="https://github.com/DPGAlliance/publicgoods-candidates/blob/main/help-center/open-standards.md" target="_blank">open standards</a> that you may find helpful.</li>
-                    <li>Provide a list of best practices & principles your solution adheres to and demonstrate adherence.* <br>You may provide link(s) to a validator, open test suite, etc to demonstrate adherence. Here is a list of <a href="https://github.com/DPGAlliance/publicgoods-candidates/blob/main/help-center/open-standards.md" target="_blank">best practices</a> that you may find helpful.<li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">Does this project adhere to best practices? </td>
-            <td valign="top">
-                <ul>
-                    <li>Was this project built and developed according to or in adherence with any design, technical and/or sector best practices or principles? i.e. the Principles for Digital Development?</li>
-                    <li>Which principles and best practices does this project support (please list)</li>
+                    <li>Provide a list of best practices & principles your solution adheres to and demonstrate adherence.* <br>You may provide link(s) to a validator, open test suite, etc to demonstrate adherence. Here is a list of <a href="https://github.com/DPGAlliance/publicgoods-candidates/blob/main/help-center/open-standards.md" target="_blank">best practices</a> that you may find helpful.
+                    </li>
                 </ul>
             </td>
         </tr>
