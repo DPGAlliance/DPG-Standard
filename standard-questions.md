@@ -129,57 +129,10 @@ __Where is the solution’s code repository?__
             <td valign="top">Your digital solution must comply with relevant standards, best practices and/or principles.</td>
             <td valign="top">
                 <ul>
-                    <li>Provide a list of the open standards your solution adheres to and demonstrate adherence.* <br>You may provide link(s) to a validator, open test suite, etc to demonstrate adherence. Here is a list of <a href="https://github.com/DPGAlliance/publicgoods-candidates/blob/main/help-center/open-standards.md" target="_blank">open standards</a> that you may find helpful.</li>
+                    <li>Provide a list of the open standards your solution adheres to and demonstrate adherence.* <br>You may provide link(s) to a validator, open test suite, etc to demonstrate adherence. Here is a list of <a href="https://github.com/DPGAlliance/publicgoods-candidates/blob/main/help-center/open-standards.md" target="_blank">open standards</a> that you may find helpful.
+                    </li>
                     <li>Provide a list of best practices & principles your solution adheres to and demonstrate adherence.* <br>You may provide link(s) to a validator, open test suite, etc to demonstrate adherence. Here is a list of <a href="https://github.com/DPGAlliance/publicgoods-candidates/blob/main/help-center/open-standards.md" target="_blank">best practices</a> that you may find helpful.
                     </li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td rowspan="4" valign="top">9. Does the project do no harm? </td>
-            <td valign="top">Has this project taken steps to anticipate, prevent and do no harm? </td>
-            <td valign="top">
-                <ul>
-                    <li>On the whole, does this project take steps to ensure that it anticipates, prevents and does no harm?</li>
-                    <li>Please describe any additional risks and mitigation steps that this project uses to prevent harm.</li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">9.a. Data Privacy &amp; Security</td>
-            <td valign="top">
-                <ul>
-                    <li>Does this project collect or store personally identifiable information (PII) data?</li>
-                    <li>If yes - please list the types of data collected and/or stored by the project:</li>
-                    <li>If yes - does this project share this data with third parties?</li>
-                    <li>Please describe the circumstances with which this project shares data with third parties. Please add links as relevant.</li>
-                    <li>If yes - does the project ensure the privacy and security of this data and has it taken steps to prevent adverse impacts resulting from its collection, storage and distribution.</li>
-                    <li>If yes - please describe the steps, and include a link to the privacy policy and/or terms of service:</li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">9.b. Inappropriate &amp; Illegal Content</td>
-            <td valign="top">
-                <ul>
-                    <li>Does this project collect, store or distribute content?</li>
-                    <li>If yes - what kinds of content does this project, collect, store or distribute? (i.e. childrens books)</li>
-                    <li>If yes - does this project have policies that describe what is considered innappropriate content? (i.e. child sexual abuse materials)</li>
-                    <li>If yes - please link to the relevant policy/guidelines/documentation.</li>
-                    <li>If yes - does this project have mechanisms for detecting and moderating innappropriate/illegal content?</li>
-                    <li>If yes - please describe the mechanism for detecting, reporting and removing innapropriate/illegal content (Please include the average response time for assessment and/or action. Link to any policies or descriptions of how inappropriate content is handled):</li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">9.c. Protection from harassment</td>
-            <td valign="top">
-                <ul>
-                    <li>Does this project facilitate interactions with or between users or contributors?</li>
-                    <li>If yes - does the project take steps to address the safety and security of underage users?</li>
-                    <li>If yes - please describe the steps this project takes to address risk or prevent access by underage users:</li>
-                    <li>If yes - does the project help users and contributors protect themselves against grief, abuse, and harassment.</li>
-                    <li>If yes - please describe the steps taken to help users protect themselves.</li>
                 </ul>
             </td>
         </tr>
