@@ -74,13 +74,14 @@ __Where is the solution’s code repository?__
             </td>
         </tr>
         <tr>
-            <td valign="top">4. Does the license of libraries/dependencies undermine the openess of the project?</td>
-            <td valign="top">Does the license of libraries/dependencies undermind the openess of the project?</td>
+            <td valign="top">4. Platform Independence</td>
+            <td valign="top">If your digital solution has any mandatory dependencies that create more restrictions than the original license, then there should be open alternatives so that such dependencies can be replaced with the alternatives without making significant changes to the core digital solution.</td>
             <td valign="top">
                 <ul>
-                    <li>Does this open project have mandatory dependencies (i.e. libraries, hardware) that create more restrictions than the original license?</li>
-                    <li>If yes - are the open source components able to demonstrate independence from the closed component(s) and/or are there functional, open alternatives?</li>
-                    <li>If yes - please describe how the open source components are independent and/or list the open alternatives for the closed component:</li>
+                    <li>Does this solution use any closed components that create proprietary dependency?* <br>Yes or No. You will be required to answer the next question if you select Yes.
+                    </li>
+                    <li>How can these closed component(s) be replaced with open alternative(s)? <br>Please provide a list of the active open alternatives for the closed component(s) and demonstrate that these close component(s) can be replaced with those open alternatives with minimal configuration changes, without requiring a major overhaul of the entire system. This requirement can be best answered by a technical member of your team. Leave this blank if the above answer is No.
+                    </li>
                 </ul>
             </td>
         </tr>
