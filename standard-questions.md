@@ -106,8 +106,7 @@ __Where is the solution’s code repository?__
                     <li>Does your solution collects or uses non-PII data and/or content?* <br> Yes or No. You will be required to answer the next question only if you collect or use non-PII data and/or content.
                     </li>
                     <li>Describe the mechanism for extracting or importing non-PII data from or into the system in a non-proprietary format. <br> Please provide a detailed description of how the non-PII data can be imported or exported into non-proprietary formats such as CSV/XML/JSON etc or via exposing the non-PII data through APIs.
-                    </li>
-                    
+                    </li> 
                 </ul>
             </td>
         </tr>
