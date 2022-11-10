@@ -126,13 +126,12 @@ __Where is the solution’s code repository?__
             </td>
         </tr>
         <tr>
-            <td rowspan="2" valign="top">8. Does the project adhere to standards and best practices?</td>
-            <td valign="top">Does this project support standards? (i.e. Web Content Accessibility Guidelines (WCAG) 2.1 or other standards such as those listed on W3C)</td>
+            <td rowspan="2" valign="top">8. Open Standards & Best Practices</td>
+            <td valign="top">Your digital solution must comply with relevant standards, best practices and/or principles.</td>
             <td valign="top">
                 <ul>
-                    <li>Does this project support standards?</li>
-                    <li>Which standards does this project support (please list)</li>
-                    <li>Can you point to evidence of your support? (i.e. please link to your validator, open test suite, etc.)</li>
+                    <li>Provide a list of the open standards your solution adheres to and demonstrate adherence.* <br>You may provide link(s) to a validator, open test suite, etc to demonstrate adherence. Here is a list of <a href="https://github.com/DPGAlliance/publicgoods-candidates/blob/main/help-center/open-standards.md" target="_blank">open standards</a> that you may find helpful.</li>
+                    <li>Provide a list of best practices & principles your solution adheres to and demonstrate adherence.* <br>You may provide link(s) to a validator, open test suite, etc to demonstrate adherence. Here is a list of <a href="https://github.com/DPGAlliance/publicgoods-candidates/blob/main/help-center/open-standards.md" target="_blank">best practices</a> that you may find helpful.<li>
                 </ul>
             </td>
         </tr>
