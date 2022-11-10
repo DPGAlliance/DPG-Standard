@@ -116,13 +116,12 @@ __Where is the solution’s code repository?__
             </td>
         </tr>
           <tr>
-            <td valign="top">7. Does the project adhere to privacy and other applicable international and domestic laws?</td>
-            <td valign="top">Does this project adhere to relevant privacy, domestic, and international laws?</td>
+            <td valign="top">7. Privacy & Applicable Laws</td>
+            <td valign="top">Your digital solution must comply with relevant privacy, domestic and other applicable international laws.</td>
             <td valign="top">
                 <ul>
-                    <li>Has this project taken steps to ensure adherence with relevant privacy, domestic, and international laws? For example, the General Data Protection Regulation (GDPR) in the European Union or the Supplementary Act A/SA.1/01/10 on Personal Data Protection for the Economic Community of West African States (ECOWAS) (yes/no)</li>
-                    <li>If yes, please list some of relevant laws that the project complies with:</li>
-                    <li>If yes, please describe the steps this project has taken to ensure adherence (include links to terms of service, privacy policy, or other relevant documentation):</li>
+                    <li>Provide a list of relevant privacy, domestic and other applicable international laws your solution complies with.* <br>Please enter a list of the relevant laws that your digital solutions complies with such as General Data Protection Regulation (GDPR), Indian IT Act, Persons with Disabilities Act 2020, Canadian Disabilities Act, Americans with Disabilities Act of 1990, etc.</li>
+                    <li>Provide evidence(s) of adherence with the laws mentioned above.*<br>Please provide link(s) to the privacy policy, terms of service or other relevant legal documentation as demonstrate adherence</li>
                 </ul>
             </td>
         </tr>
