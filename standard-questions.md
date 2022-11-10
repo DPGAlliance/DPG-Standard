@@ -165,6 +165,19 @@ __Where is the solution’s code repository?__
                 </ul>
             </td>
         </tr>
+         <tr>
+            <td valign="top">9 C. Protection from Harassment</td>
+            <td valign="top">If your digital solution facilitates interactions with or between users or contributors there must be a process for users and contributors to protect themselves against grief, abuse, and harassment. The project must have system(s) to address the safety and security of underage users
+            </td>
+            <td valign="top">
+                <ul>
+                    <li>Does your solution facilitate interactions with or between users and/or contributors?*<br>Yes or No. Please select the option that is applicable for your solution. You will be required to answer the next question if you select Yes.
+                    </li>
+                    <li>How does your solution enables users and contributors to protect themselves from harassment? <br>Please describe (1) policies such as a code of conduct and processes users and contributors can use to protect themselves and (2) processes that addresses the safety and security of underage users.
+                    </li>
+                </ul>
+            </td>
+        </tr>
     </tbody>
 </table>
 
