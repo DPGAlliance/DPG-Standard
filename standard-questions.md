@@ -49,18 +49,15 @@ __Where is the solution’s code repository?__
             </td>
         </tr>
         <tr>
-            <td valign="top">2. Does it use an appropriate open license? </td>
-            <td valign="top">
-                <ul>
-                    <li>Does it use an open license from the OSI list for software?</li>
-                    <li>Does it use a CC license for content (non derivative)?</li>
-                    <li>Does it use an Open Data license from the Open Data Commons list?</li>
-                </ul>
+            <td valign="top">2. Open Licensing</td>
+            <td valign="top">Your digital solution must use an approved open license.
             </td>
             <td valign="top">
                 <ul>
-                    <li>DPGs must use an open license. Please identify which of these <a href="https://github.com/DPGAlliance/publicgoods-candidates/blob/main/help-center/licenses.md" target="_blank">approved open licenses</a> this project uses: </li>
-                     <li>Please link to where the license is indicated for this project:</li>
+                    <li>Which open license(s) is/are used by your solution? <br>Please <a href="https://github.com/DPGAlliance/publicgoods-candidates/blob/main/help-center/licenses.md" target="_blank">refer here for the list of approved open licenses</a> accepted. If you do not currently use one of the approved licenses, your solution cannot be approved as a DPG.
+                    </li>
+                    <li>Provide evidence of use of the selected open license(s).* <br>Please provide link(s) to public pages where the license(s) selected above are hosted for this project. This could be a license file in GitHub repository or a public URL on the project website.
+                    </li>
                 </ul>
             </td>
         </tr>
