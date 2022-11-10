@@ -93,7 +93,7 @@ __Where is the solution’s code repository?__
                     <li>Where is your solution’s documentation?*<br>Please summarize how and where the solution is documented along with link(s) to all relevant documents.
                     For software solutions, documentation could include an open repo, technical specifications, functional requirements, etc.
                     For data sets or solutions, documentation could describe all the fields in the set, and provide context on how the data was collected and how it should be interpreted.
-                    For content, documentation could include relevant compatible apps, software, hardware required to access the content and any instructions on how to use it. For more details on documentation best practices, please visit this link. <a href="https://github.com/DPGAlliance/publicgoods-candidates/blob/main/help-center/documentation.md" target="_blank">link</a>
+                    For content, documentation could include relevant compatible apps, software, hardware required to access the content and any instructions on how to use it. For more details on documentation best practices, please visit this <a href="https://github.com/DPGAlliance/publicgoods-candidates/blob/main/help-center/documentation.md" target="_blank">link</a>
                     </li>
                 </ul>
             </td>
