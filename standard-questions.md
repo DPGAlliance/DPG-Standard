@@ -136,16 +136,13 @@ __Where is the solution’s code repository?__
                 </ul>
             </td>
         </tr>
-            <tr>
+        <tr>
             <td valign="top">9 A. Data Privacy & Security</td>
             <td valign="top">If your digital solution collects, stores and distributes PII data (personally identifiable information) data, then you must demonstrate how is the privacy, security and integrity of this data is ensured
             </td>
             <td valign="top">
                 <ul>
-                    <li>Does your solution collect / store / distribute PII data?*<br>Please select the option that is applicable for your solution. <br>PII data is NOT collected NOT stored and NOT distributed.
-                    PII data is collected but NOT stored and NOT distributed.
-                    PII data is collected and stored but NOT distributed.
-                    PII data is collected and stored and distributed.
+                    <li>Does your solution collect / store / distribute PII data?*<br>Please select the option that is applicable for your solution. <br>PII data is NOT collected NOT stored and NOT distributed.PII data is collected but NOT stored and NOT distributed.PII data is collected and stored but NOT distributed. PII data is collected and stored and distributed.
                     </li>
                     <li>What are types of data that is collected / stored / distributed?<br>Please list the types of PII data. Example: Name, Email, etc.</li>
                     <li>How does your solution ensures data privacy & security?<br>Please demonstrate how the project ensures the privacy, security and integrity of this data and the steps taken to prevent adverse impacts resulting from its collection, storage and distribution.
