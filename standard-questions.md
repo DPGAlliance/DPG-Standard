@@ -33,7 +33,6 @@ __Where is the solution’s code repository?__
             <th width="25%">Description:</th>
             <th width="50%">DPG Standard Assessment Questions:</th>
         </tr>
-        </tr>
     </thead>
     <tbody>
         <tr>
@@ -44,7 +43,7 @@ __Where is the solution’s code repository?__
                 <ul>
                     <li>Which SDGs is your solution relevant to?*</li>
                     <li>How is your solution relevant to each SDG you’ve selected above?* <br>Please provide information and/or link(s) to a webpage, article or documentation that adequately demonstrates relevance to each SDG selected above. Solutions that fail to do so will be out rightly rejected without a second chance for providing additional information or clarifications.
-</li>
+                </li>
                 </ul>
             </td>
         </tr>
