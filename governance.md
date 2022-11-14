@@ -76,12 +76,12 @@ are monthly meetings to catch and address any outstanding issues.
 * [![](https://img.shields.io/badge/-major_change-FFA500)](https://github.com/DPGAlliance/DPG-Standard/labels/major%20change). The moderator will first assign it
 to a member of the DPGA for further investigation over a period of up to two weeks. That person will report and comment on the issue, documenting and exploring
 the implications of accepting or rejecting that change, and will open another period of up to two weeks for additional input from the community. We will inform
-the members of the DPGA's Internal Strategy Group (ISG) giving them an equal opportunity to comment. Reviewing these changes will happen quarterly. Consensus from the 2 co-leads and 2 technical leads 
+the members of the [DPGA's Governance Board](https://digitalpublicgoods.net/governance/) (the Board) giving them an equal opportunity to comment. Reviewing these changes will happen quarterly. Consensus from the 2 co-leads and 2 technical leads 
 (see [Current Roles](#current-roles)) will be required to accept or reject these proposals.
 
 * [![](https://img.shields.io/badge/-fundamental-b60205)](https://github.com/DPGAlliance/DPG-Standard/labels/fundamental). After validating the legitimacy of the 
 proposal, we will open a consultation process with significant communities and stakeholders throughout the ecosystem, including all [endorsers](endorsement.md).
-The findings from this consultation process will be presented to the DPGA's Internal Strategy Group (ISG), who will have a week to veto or ask for more time
+The findings from this consultation process will be presented to the[DPGA's Governance Board](https://digitalpublicgoods.net/governance/) (the Board) , who will have a week to veto or ask for more time
 (where silence is implied consent). Consensus from the 2 co-leads and 2 technical leads (see [Current Roles](#current-roles)) will be required to  
 either accept or reject the proposal. Reviewing these changes will occur twice per year during the first year, and yearly thereafter.
 
