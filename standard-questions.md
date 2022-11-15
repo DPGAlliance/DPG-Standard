@@ -99,7 +99,7 @@ __Where is the solution’s code repository?__
         </tr>
         <tr>
             <td valign="top">6. Non-PII Data Extraction</td>
-            <td valign="top">If your solution collect or use non-PII data and/or content, then there must be mechanisms for extracting or importing non-PII data from or into the system in a non-proprietary format.</td>
+            <td valign="top">If your solution collects or uses non-PII data and/or content, then there must be mechanisms for extracting or importing non-PII data from or into the system in a non-proprietary format.</td>
             <td valign="top">
                 <ul>
                     <li>Does your solution collects or uses non-PII data and/or content?* <br> Yes or No. You will be required to answer the next question only if you collect or use non-PII data and/or content.
