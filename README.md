@@ -20,9 +20,19 @@ The DPG Standard establishes a baseline that must be met in order to earn recogn
 
 We encourage creators, maintainers, funders, implementers, and consumers to use this standard to recognize, assess, and support digital public goods. The standard is operationalized through a [questionary](standard-questions.md) that is required as part of the assessment process. We maintain a list of digital public goods that meet the DPG Standard described above on [our platform](https://digitalpublicgoods.net/platform). Projects are reviewed annually and archived if they do not continue to meet the Standard, as per our [archiving policy](archiving.md).
 
-![Vetting Process](docs/process.svg)
+![application_review_policy](https://user-images.githubusercontent.com/8824104/201636640-33eb8dde-b7d3-4bac-a0b5-fa0a72d0dd61.gif)
 
-We apply the DPG Standard to projects on our platform that have either been [nominated directly](https://docs.google.com/forms/d/e/1FAIpQLSdGzlBiecPBlVvJXmcMKXF3zdxASY8vGnrdnNNwp7fVKb169A/viewform) or have been pulled together from partnership databases. Projects that are submitted to our platform will undergo three stages of review to ensure they meet the requirements set in the DPG Standard. As a project undergoes various reviews it will move from **nominee** to a fully reviewed **digital public good**. 
+* Each application is assessed against the latest version of the [DPG Standard](https://github.com/DPGAlliance/DPG-Standard/blob/main/standard.md) at time of creating the application
+* Each application is thoroughly reviewed by at least two people from the DPGA review team
+* Application must meet all the requirements of the DPG Standard to become a DPG. If the application fails to meet one or more requirements, they will be declared as "ineligible to be recognized as a DPG at this time."
+* Every review results in a binary decision : DPG or Ineligible
+* Final determination on whether a solution adheres to the DPG Standard will be made by the DPGA Secretariat’s Technical Coordinator
+* A digital solution recognized as a DPG will be listed on the public [DPG Registry](https://digitalpublicgoods.net/registry/) and their listing will also made be available to other databases via an API
+* If required, the reviewers may consult the Community Manager, the Product Manager and domain experts on a case to case basis
+* A reviewer may reach out to the applicant to seek clarifications and/or gather additional information in order to complete their review
+* The applicant will be intimated about the request for clarification via email and the DPGA webapp
+* The applicant must submit clarifications within the time allotted to them by the reviewer
+* If the applicant fails to respond with all requested clarifications within the time allotted to them, then the application will be automatically declared Ineligible
 
 Documentation submitted by candidates is transparently displayed on GitHub and can be [viewed here](https://github.com/unicef/publicgoods-candidates/pulls). If a project meets the DPG Standard it will be officially considered a digital public good and will appear as such in the DPG Registry, and may be eligible for additional recognition and support.
 
