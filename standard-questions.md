@@ -1,5 +1,5 @@
 # DPG Standard Questionary
-This document contains the set of questions that are collected in the application form at [digitalpublicgoods.net/nominate](app.digitalpublicgoods.net) and used to assess each of the indicators set forth in the DPG Standard.
+This document contains the set of questions that are collected in the application form at [app.digitalpublicgoods.net](https://app.digitalpublicgoods.net/form) and used to assess each of the indicators set forth in the DPG Standard.
 
 ## GENERAL INFORMATION
 About your digital solution
@@ -131,7 +131,7 @@ __Where is the solution’s code repository?__
                 <ul>
                     <li>Provide a list of the open standards your solution adheres to and demonstrate adherence.* <br>You may provide link(s) to a validator, open test suite, etc to demonstrate adherence. Here is a list of <a href="https://github.com/DPGAlliance/publicgoods-candidates/blob/main/help-center/open-standards.md" target="_blank">open standards</a> that you may find helpful.
                     </li>
-                    <li>Provide a list of best practices & principles your solution adheres to and demonstrate adherence.* <br>You may provide link(s) to a validator, open test suite, etc to demonstrate adherence. Here is a list of <a href="https://github.com/DPGAlliance/publicgoods-candidates/blob/main/help-center/open-standards.md" target="_blank">best practices</a> that you may find helpful.
+                    <li>Provide a list of best practices & principles your solution adheres to and demonstrate adherence.* <br>You may provide link(s) to a validator, open test suite, etc to demonstrate adherence. Here is a list of <a href="https://github.com/DPGAlliance/publicgoods-candidates/blob/main/help-center/best-practices.md" target="_blank">best practices</a> that you may find helpful.
                     </li>
                 </ul>
             </td>
