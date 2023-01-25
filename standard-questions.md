@@ -160,7 +160,7 @@ __Where is the solution’s code repository?__
                     </li>
                     <li>What are the types of content that is collected / stored / distributed?<br>Please list the types of content.
                     </li>
-                    <li>How does your solution handles inappropriate and illegal content?<br>Please describe (1) the policies for identifying inappropriate and illegal content and (2) the processes for detecting, moderating, reporting and removing inappropriate / illegal content. Please include the average response time for assessment and/or action. Please describe how the mechanism for identifying, reporting and removing innapropriate/illegal content, achieves those goals without compromising any expectations of privacy and integrity that individual creators of legal content will have.
+                    <li>How does your solution handles inappropriate and illegal content?<br>Please describe (1) the policies for identifying inappropriate and illegal content and (2) the processes for detecting, moderating, reporting and removing inappropriate / illegal content. Please include the average response time for assessment and/or action. Please describe how the mechanisms for identifying, detecting, moderating, reporting and removing innapropriate/illegal content, all achieve those goals without compromising any expectations of privacy and integrity that individual creators of legal content will have.
                     </li>
                 </ul>
             </td>
