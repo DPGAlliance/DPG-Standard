@@ -81,7 +81,7 @@ the members of the [DPGA's Governance Board](https://digitalpublicgoods.net/gove
 
 * [![](https://img.shields.io/badge/-fundamental-b60205)](https://github.com/DPGAlliance/DPG-Standard/labels/fundamental). After validating the legitimacy of the 
 proposal, we will open a consultation process with significant communities and stakeholders throughout the ecosystem, including all [endorsers](endorsement.md).
-The findings from this consultation process will be presented to the[DPGA's Governance Board](https://digitalpublicgoods.net/governance/) (the Board) , who will have a week to veto or ask for more time
+The findings from this consultation process will be presented to the [DPGA's Governance Board](https://digitalpublicgoods.net/governance/) (the Board) , who will have a week to veto or ask for more time
 (where silence is implied consent). Consensus from the 2 co-leads and 2 technical leads (see [Current Roles](#current-roles)) will be required to  
 either accept or reject the proposal. Reviewing these changes will occur twice per year during the first year, and yearly thereafter.
 
