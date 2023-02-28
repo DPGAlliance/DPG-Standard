@@ -130,5 +130,5 @@ This repository [DPGAlliance/DPG-Standard](https://github.com/DPGAlliance/DPG-St
 
 # Current Roles
 
-* [Lucy Harris](https://github.com/lucyeoh), Secretariat Co-Lead
+* [Lucy Harris](https://github.com/lucyeoh) and Liv Marte Nordhaug, Secretariat Co-Lead 
 * [Prajakta Kuwalekar](https://github.com/prajectory), Product Manager, current moderator
