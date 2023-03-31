@@ -4,7 +4,7 @@ This is a work in progress.
 
 The purpose of this document is to share how the Digital Public Goods Alliance (DPGA) envisions engaging a growing community of contributors and stakeholders around the Digital Public Goods (DPG) Standard. Our goal is to balance responsiveness to feedback, with stability and predictabilty for the DPG Standard so it can be a framework that people can build for and to.
 
-The DPG Standard leverages frameworks, standards and definitions from specific organizations that have broad market consensus and are facilitating the discovery, development, use of, and investment in digital public goods. Specific organizations the DPG Standard aligns with include: Open Source Initiative (OSI), Creative Commons, and Open Data Commons.
+The DPG Standard leverages frameworks, standards and definitions from specific organizations that have broad market consensus and are facilitating the discovery, development, use of, and investment in digital public goods. Specific organizations the DPG Standard aligns with include: Open Source Initiative (OSI) also member of the DPGA alliance, Creative Commons, and Open Data Commons.
 
 ## Principles
 
@@ -27,18 +27,19 @@ The following section showcases the processes for:
 * incorporating proposed changes in forthcoming revisions
 
 The latest version of the [Digital Public Goods Standard](standard.md) is found in the root folder of this repository. 
-The DPG Standard is operationalized through a [questionary](standard-questions.md). This set of questions is used to screen 
+The DPG Standard is operationalized through a [questionary](https://app.digitalpublicgoods.net/form). This set of questions is used to screen 
 projects or products, and validate whether they conform to the DPG Standard, and can thus be classified as digital public goods.
 
 ### Priority
 
-Our priority for Q4/2020 and Q1/2021 is to establish a stable version of the DPG Standard. To do so, we ask for all comments and edits to be centered around the DPG Standard 
-rather than the associated set of questions. The rationale being if the DPG Standard were to significantly change in the coming
-months, so would the questionary, therefore any preliminary work on the questions may need to be discarded.
+Our priority for year 2023 is to establish a stable version of the DPG Standard that encompasses specific requirements for open standard, open data, open AI solutions. To do so, we ask for all comments and edits to be centered around the DPG Standard rather than the associated set of questions. The rationale being if the DPG Standard were to significantly change, so would the questionary, therefore any preliminary work on the questions may need to be discarded.
 
 ### Proposing Changes
 
 These are the suggested steps for proposing changes to the DPG Standard:
+- Start an issue: You can create [an issue](https://github.com/DPGAlliance/DPG-Standard/issues) to suggest changes and invite other community members to weigh in with their thoughts 
+OR
+- Start a Pull Request 
 - First, to avoid duplication, review the existing [Pull Requests](https://github.com/DPGAlliance/DPG-Standard/pulls) to see if your proposed change
 has already been proposed or not. If it has already been proposed, you are encouraged to add your perspective
 to the existing proposed change and argue for or against it with constructive and compelling arguments.
@@ -120,15 +121,13 @@ This repository [DPGAlliance/DPG-Standard](https://github.com/DPGAlliance/DPG-St
 
 1. The DPGA website contains https://digitalpublicgoods.net/standard/ which needs to be updated manually matching the contents of [standard.md](https://github.com/DPGAlliance/DPG-Standard/blob/master/standard.md).
 2. The DPGA website also contains the [submission guide](https://digitalpublicgoods.net/submission-guide/) which needs to be updated manually.
-3. The [unicef/publicgoods-candidates](https://github.com/unicef/publicgoods-candidates) repository needs the following to be updated:
-    * the [nominee-schema.json](https://github.com/unicef/publicgoods-candidates/blob/master/nominee-schema.json)
-    * the [screening-schema.json](https://github.com/unicef/publicgoods-candidates/blob/master/screening-schema.json)
-    * propagate any changes to all encoded nominees and digital public goods.
-4. The [Submission Form](https://digitalpublicgoods.net/submission) through the [unicef/publicgoods-submission](https://github.com/unicef/publicgoods-submission) repository, and its corresponding [schema.js](https://github.com/lacabra/submission-digitalpublicgoods/blob/master/schemas/schema.js)
+3. The DPG application [webapp admin panel](https://app.digitalpublicgoods.net/login) which will be updated manually. 
 5. The [Eligibility Form](https://digitalpublicgoods.net/eligibility/) through the [unicef/publicgoods-scripts](https://github.com/unicef/publicgoods-submission) repository, by editing [quizQuestions.js](https://github.com/unicef/publicgoods-scripts/blob/master/packages/eligibility/src/api/quizQuestions.js)
 
 
 # Current Roles
 
-* [Lucy Harris](https://github.com/lucyeoh), Secretariat Co-Lead
-* [Prajakta Kuwalekar](https://github.com/prajectory), Product Manager, current moderator
+* [Liv Marte Nordhaug](https://github.com/livmarte) Secretariat Co-Lead /OOO[Lucy Harris](https://github.com/lucyeoh)
+* [Christer Gunderson](https://github.com/christer-io), Technical Advisor 
+* [Prajakta Kuwalekar](https://github.com/prajectory), Product Manager, current Moderator
+
