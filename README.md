@@ -18,11 +18,11 @@ The DPG Standard establishes a baseline that must be met in order to earn recogn
 
 ## ✅ Application of the DPG Standard
 
-We encourage creators, maintainers, funders, implementers, and consumers to use this standard to recognize, assess, and support digital public goods. The standard is operationalized through a [questionary](standard-questions.md) that is required as part of the assessment process. We maintain a list of digital public goods that meet the DPG Standard described above on [our platform](https://digitalpublicgoods.net/platform). Projects are reviewed annually and archived if they do not continue to meet the Standard, as per our [archiving policy](archiving.md).
+We encourage creators, maintainers, funders, implementers, and consumers to use this standard to recognize, assess, and support digital public goods. The standard is operationalized through a [questionary](https://app.digitalpublicgoods.net/form) that is required as part of the assessment process. We maintain a list of digital public goods that meet the DPG Standard described above on [our registry](https://digitalpublicgoods.net/registry). Projects are reviewed annually and archived if they do not continue to meet the Standard, as per our [archiving policy](archiving.md).
 
 ![Vetting Process](docs/process.svg)
 
-We apply the DPG Standard to projects on our platform that have either been [nominated directly](https://docs.google.com/forms/d/e/1FAIpQLSdGzlBiecPBlVvJXmcMKXF3zdxASY8vGnrdnNNwp7fVKb169A/viewform) or have been pulled together from partnership databases. Projects that are submitted to our platform will undergo three stages of review to ensure they meet the requirements set in the DPG Standard. As a project undergoes various reviews it will move from **nominee** to a fully reviewed **digital public good**. 
+We apply the DPG Standard to projects that have either been [nominated directly](https://app.digitalpublicgoods.net/form) or have been pulled together from partnership databases. Projects that are submitted to our platform will undergo three stages of review to ensure they meet the requirements set in the DPG Standard. As a project undergoes various reviews it will move from **nominee** to a fully reviewed **digital public good**. 
 
 Documentation submitted by candidates is transparently displayed on GitHub and can be [viewed here](https://github.com/unicef/publicgoods-candidates/pulls). If a project meets the DPG Standard it will be officially considered a digital public good and will appear as such in the DPG Registry, and may be eligible for additional recognition and support.
 
