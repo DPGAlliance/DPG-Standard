@@ -2,7 +2,7 @@
 This document contains the set of questions that are collected in the application form at [app.digitalpublicgoods.net](https://app.digitalpublicgoods.net/form) and used to assess each of the indicators set forth in the DPG Standard.
 
 ## GENERAL INFORMATION
-About your digital solution
+About your digital solution. Please ensure that your details and code are available in English so that our reviewer team can assess the application properly.
 
 __Solution name__
 <br>Please enter the full name of your digital solution. This will be listed on the registry if your application is accepted.
@@ -23,6 +23,9 @@ __Short description__
 __Website__
 <br>Please provide link(s) to the website or webpage of your digital solution.
 
+__Alternate Email Address__
+<br> Please provide us with an alternate email address (separate from the one used to register on this app). This will give us an additional way to contact you in case emails to the registered email address bounce back.
+
 __Where is the solution’s code repository?__
 <br>Please provide link(s) to your code repo that exposes source code. This is mandatory if your solution is an Open Software solution.
 
@@ -41,8 +44,8 @@ __Where is the solution’s code repository?__
             </td>
             <td valign="top">
                 <ul>
-                    <li>Which SDGs is your solution relevant to?*</li>
-                    <li>How is your solution relevant to each SDG you’ve selected above?* <br>Please provide information and/or link(s) to a webpage, article or documentation that adequately demonstrates relevance to each SDG selected above. Solutions that fail to do so will be out rightly rejected without a second chance for providing additional information or clarifications.
+                    <li>Which SDGs is your solution relevant to?* <br>Select SDG/s that are MOST relevant to your solution from the list below.</li>
+                    <li>How is your solution relevant to each SDG you’ve selected above?* <br>Each SDG has detailed targets that you can learn more about at the  <a href="https://sdg-tracker.org/">SDG tracker</a>. State in a couple of sentences the relationship between your solution and selected SDG(s)’s targets. If you have selected more than one, you will have to establish the relationship for each of them.
                 </li>
                 </ul>
             </td>
@@ -102,7 +105,7 @@ __Where is the solution’s code repository?__
             <td valign="top">If your solution collects or uses non-PII data and/or content, then there must be mechanisms for extracting or importing non-PII data from or into the system in a non-proprietary format.</td>
             <td valign="top">
                 <ul>
-                    <li>Does your solution collects or uses non-PII data and/or content?* <br> Yes or No. You will be required to answer the next question only if you collect or use non-PII data and/or content.
+                    <li>Does your solution collects or uses non-PII data and/or content?* <br> Yes or No. You will be required to answer the next question only if you collect or use non-personally identifiable (non-PII) data and/or content. Non-PII data, is simply data that is anonymous - can not be used to distinguish or trace an individual’s identity such as their name, date and place of birth, bio-metric records etc.
                     </li>
                     <li>Describe the mechanism for extracting or importing non-PII data from or into the system in a non-proprietary format. <br> Please provide a detailed description of how the non-PII data can be imported or exported into non-proprietary formats such as CSV/XML/JSON etc or via exposing the non-PII data through APIs.
                     </li> 
@@ -186,3 +189,6 @@ __Where is the solution’s code repository?__
 * Where was this solution developed?*: _Please select one or more countries._
 * Where is this solution actively deployed?*: _Please select one or more countries._
 * Are there any multi-lateral organisations using your solution?: _Please select from the options below._
+* Are there any governments departments and/or ministries using your solution?: _Please enter a list country governments, ministries, public bodies that have adopted your solution_ 
+* Who else is using your solution? _Please enter any other organization or body not covered in above questions that have adopted your solution_
+* Has your solution received any awards and/or recognition in the last one year? _Please enter a list of awards and/or recognition recieved along with the awarding organisation, award title and a link to a certificate or document or image that verifies your claim for each._
