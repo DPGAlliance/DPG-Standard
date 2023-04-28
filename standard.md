@@ -19,4 +19,4 @@ Indicator | Requirement
 **9b) Inappropriate & Illegal Content** | Digital public goods that collect, store or distribute content must have policies identifying inappropriate and illegal content such as child sexual abuse materials in addition to processes for detecting, moderating, reporting and removing inappropriate/ illegal content.
 **9c) Protection from Harassment** | If the digital public good facilitates interactions with or between users or contributors there must be a process for users and contributors to protect themselves against grief, abuse, and harassment. The project must have system(s) to address the safety and security of underage users.
 
-_NOTE: Evidence for requirements 7-9 can only be given by someone authorized to speak on behalf of the project. We collect title, name and contact information to confirm this authority._
+_NOTE: Evidence for all indicators can only be given by someone authorized to speak on behalf of the project. We collect title, name and contact information to confirm this authority._
