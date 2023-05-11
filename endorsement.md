@@ -42,6 +42,7 @@ Jon Lloyd | Director of Campaigns at Mozilla Foundation | [Mozilla Foundation](h
 [Surendrasingh Sucharia](https://github.com/surendrasinghs) | Product and Growth Lead, EkStep; Chief Evangelist for [Sunbird](https://sunbird.org) | [EkStep Foundation](https://ekstep.org)
 [Bodhish Thomas](https://www.linkedin.com/in/bodhish/) | Chief Network Architect, Coronasafe Network | [Coronasafe Network](http://coronasafe.network/)
 [Dau Thuy Ha](https://www.linkedin.com/in/dauthuyha/) | Co-founder, CEO, The Online Management Training Company (OMT), Vietnam | [The Online Management Training Company (OMT), Vietnam](http://omt.vn)
+[Ravi Pratap Singh](https://www.linkedin.com/in/1singhravi/) | Lead - Hyperledger India Chapter Student Society, India | [Hyperledger Foundation](https://www.hyperledger.org/), [Hyperledger India Chapter](https://wiki.hyperledger.org/display/HIRC/Hyperledger+India+Regional+Chapter+Home/)
 
 
 
