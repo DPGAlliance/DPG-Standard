@@ -23,6 +23,7 @@ Full Name | Title | Organization
 [Sean Blaschke](https://github.com/seanblaschke) | Technology for Development Business Analyst, UNICEF Eastern and Southern Africa Regional Office | [UNICEF](https://www.unicef.org/)
 [Fabien Benetou](https://fabien.benetou.fr) | UNICEF Innovation Fund WebXR technical advisor, European Parliament Innovation lab WebXR consultant | UNICEF, European Parliament
 [Edward Cable](https://www.linkedin.com/in/edcable/) | President/CEO, The Mifos Initiative | [The Mifos Initiative](https://mifos.org)
+[Ben Cerveny](https://github.com/nebster) | President | [Foundation for Public Code](https://publiccode.net)
 [Michael Downey](https://floss.social/@downey) | Free & open source software advocate & consultant | 
 [Justin W. Flory](https://jwf.io) | Open Source Technical Advisor, UNICEF Office of Innovation | [UNICEF Innovation Fund](https://unicefinnovationfund.org/)
 [Matt Germonrez](https://github.com/germonprez) | Professor, College of Information Science & Technology at University of Nebraska at Omaha | [CHAOSS](https://chaoss.community/)
