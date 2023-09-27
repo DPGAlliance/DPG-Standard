@@ -127,7 +127,8 @@ This repository [DPGAlliance/DPG-Standard](https://github.com/DPGAlliance/DPG-St
 
 # Current Roles
 
-* [Liv Marte Nordhaug](https://github.com/livmarte) Secretariat Co-Lead /OOO[Lucy Harris](https://github.com/lucyeoh)
-* [Christer Gunderson](https://github.com/christer-io), Technical Advisor 
-* [Prajakta Kuwalekar](https://github.com/prajectory), Product Manager, current Moderator
-
+* [Lucy Harris](https://github.com/lucyeoh), Secretariat Co-Lead
+* [Liv Marte Nordhaug](https://github.com/livmarte), Secretariat Co-Lead
+* [Amreen Taneja](https://github.com/), DPG Standard Manager
+* [Ricardo Miron](https://github.com/ricardomiron), Tecchnical Lead
+* [Christer Gunderson](https://github.com/christer-io), Technical Advisor
