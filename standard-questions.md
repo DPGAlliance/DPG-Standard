@@ -72,6 +72,9 @@ __Where is your solution's source hosted?__
                     </li>
                     <li>Provide evidence(s) of ownership.*<br>Please provide link(s) to the copyright, trademarks, or publicly available ownership documentation for the digital solutions. It could be a webpage that clearly defines who owns the digital solution. Terms of Service may also indicate the ownership of the digital solutions. Additional legal documentation that provides supporting information will strengthen your application. Digital solutions owned by a parent organisation, could highlight the digital solutions on their website to strengthen the application.
                     </li>
+                     </li>[If No] Provide evidence to demonstrate the right to reproduce and/or distribute all of the content or data sets included in the collection. 
+Acceptable evidence includes licensing agreements for copyright work or evidence of public domain for copyright-free work.  
+                    </li>
                 </ul>
             </td>
         </tr>
