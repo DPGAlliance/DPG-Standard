@@ -74,6 +74,8 @@ __Where is your solution's source hosted?__
                     </li>  
                     <li>Do you own all of the content and/or data in this collection?* <br>For content collections and data sets, please indicate whether all of the content/data included in the collection are owned/licensed by the owner indicated above. This is a yes or no question.
                     </li>
+                    <li>[If No] Do you have the right to re-distribute this data/content?* <br>Provide evidence to demonstrate the right to reproduce and/or distribute all of the content or data sets included in the collection. Acceptable evidence includes licensing agreements for copyright work or evidence of public domain for copyright-free work.  
+                    </li>
                 </ul>
             </td>
         </tr>
