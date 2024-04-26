@@ -71,6 +71,8 @@ __Where is your solution's source hosted?__
                     <li>Who owns this digital solution?* <br>If there is no formal organization associated with the solution, please enter names of the people who own this solution.
                     </li>
                     <li>Provide evidence(s) of ownership.*<br>Please provide link(s) to the copyright, trademarks, or publicly available ownership documentation for the digital solutions. It could be a webpage that clearly defines who owns the digital solution. Terms of Service may also indicate the ownership of the digital solutions. Additional legal documentation that provides supporting information will strengthen your application. Digital solutions owned by a parent organisation, could highlight the digital solutions on their website to strengthen the application.
+                    </li>  
+                    <li>Do you own all of the content and/or data in this collection?* <br>For content collections and data sets, please indicate whether all of the content/data included in the collection are owned/licensed by the owner indicated above. This is a yes or no question.
                     </li>
                 </ul>
             </td>
