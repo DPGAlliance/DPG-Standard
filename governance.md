@@ -80,6 +80,8 @@ Community engagement is a key aspect of the Change Proposal Process. Stakeholder
 - [![](https://img.shields.io/badge/-major_change-FFA500)](https://github.com/DPGAlliance/DPG-Standard/labels/major%20change) - For more substantial changes, stakeholders have three weeks to review and provide feedback. Major changes may include but not be limited to revisions to existing indicators of the standard or the introduction of new elements within specific indicators.
 - [![](https://img.shields.io/badge/-fundamental-b60205)](https://github.com/DPGAlliance/DPG-Standard/labels/fundamental) - For significant revisions that impact the core principles or structure of the DPG Standard, stakeholders have four weeks to review and provide feedback. This allows for in-depth analysis and discussion of the proposed fundamental changes
 
+_*Relevant topics to the community can be opened for a longer duration for discussion if deemed necessary by the Standard Council._
+
 **3b(iv) Amendments Review by Standard Council**
 
 Following the community comment period, the proposed amendments, along with the feedback received, are classified and reviewed by the Standard Council. The council evaluates the proposed changes, taking into account technical feasibility, alignment with organisational goals, and feedback from the community and stakeholders.
