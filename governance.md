@@ -80,6 +80,8 @@ Community engagement is a key aspect of the Change Proposal Process. Stakeholder
 - [![](https://img.shields.io/badge/-major_change-FFA500)](https://github.com/DPGAlliance/DPG-Standard/labels/major%20change) - For more substantial changes, stakeholders have three weeks to review and provide feedback. Major changes may include but not be limited to revisions to existing indicators of the standard or the introduction of new elements within specific indicators.
 - [![](https://img.shields.io/badge/-fundamental-b60205)](https://github.com/DPGAlliance/DPG-Standard/labels/fundamental) - For significant revisions that impact the core principles or structure of the DPG Standard, stakeholders have four weeks to review and provide feedback. This allows for in-depth analysis and discussion of the proposed fundamental changes
 
+Not that for decisions regarding fundamental changes in the DPG Standard need to be approved by the Chief Executive Officer of the DPGA, after which they are opened for comments from the Community. 
+
 _*Relevant topics to the community can be opened for a longer duration for discussion if deemed necessary by the Standard Council._
 
 **3b(iv) Amendments Review by Standard Council**
@@ -98,6 +100,8 @@ It's important to note that the Standard Council functions as a facilitator revi
 
 The council is composed of [Secretariat staff members](https://digitalpublicgoods.net/digital-public-goods-alliance-secretariat/) dedicated to ensuring responsiveness to feedback, stability, and predictability for the DPG Standard. Their responsibilities include facilitating decision-making processes, strategic planning, and ensuring alignment with the goals of the Digital Public Goods Alliance.
 
+Following discussions in the Standard Council, any decisions regarding fundamental changes in the DPG Standard need to be approved by the Chief Executive Officer of the DPGA, after which they are opened for comments from the Community. 
+
 **4a. The council's composition includes**
  
 - A Core Team consisting of key secretariat staff: Chief Operations Officer, Chief Technology Officer, and Standards Lead.
@@ -110,8 +114,7 @@ Decision-making within the Standard Council is consensus-based, with all members
 
 **4b. Impasse resolution**
 
-In the event of an impasse, a formal voting mechanism is used, with each member casting a single vote. A supermajority vote is required to break the impasse and determine the outcome. Additionally, the COO considers suggestions provided by advisory members before formalising decisions. Following discussions in the Standard Council, any decisions regarding fundamental changes in the DPG Standard need to be approved by the Chief Executive Officer of the DPGA, after which they are opened for comments from the Community. 
-
+In the event of an impasse, a formal voting mechanism is used, with each member casting a single vote. A supermajority vote is required to break the impasse and determine the outcome. Additionally, the COO considers suggestions provided by advisory members before formalising decisions. 
 Transparency measures are implemented through the publication of relevant Standard Council meeting outcomes on GitHub on a regular basis. These outcomes are open for public comments, fostering transparency and accountability in the standard-setting process.
 
 ## 5. Versioning
