@@ -34,7 +34,7 @@ At the DPGA, we envision a growing community of contributors and stakeholders ar
 
 ## 🙏 Acknowledgements
 
-Thank you to all the individuals who contributed to the DPG Standard, as well as to the participants of the **Early Grade Reading Community of Practice**. We also thank the following organizations: UNICEF,iSPIRT, the Government of Sierra Leone, the Government of Norway, and the DPGA Secretariat.
+Thank you to all the individuals who contributed to the DPG Standard, as well as to the participants of the **Early Grade Reading Community of Practice**. We also thank the following organizations: UNICEF, iSPIRT, the Government of Sierra Leone, the Government of Norway, and the DPGA Secretariat.
 
 *Image Credit: [Badge](https://thenounproject.com/search/?q=seal+of+approval&i=32270) by André Luiz from [the Noun Project](http://thenounproject.com/), released under a CC license.*
 
