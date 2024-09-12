@@ -10,27 +10,19 @@
 
 The [Digital Public Goods Standard](standard.md) is a set of specifications and guidelines designed to maximize consensus about whether a project conforms to the definition of digital public goods set by the UN Secretary-General in the [2020 Roadmap for Digital Cooperation](https://www.un.org/en/content/digital-cooperation-roadmap/): *digital public goods must be open source software, open data, open AI models, open standards, and open content that adhere to privacy and other applicable laws and best practices, do no harm, and help attain the Sustainable Development Goals (SDGs).*
 
-The DPG Standard establishes a baseline that must be met in order to earn recognition as a digital public good by the [Digital Public Goods Alliance](https://digitalpublicgoods.net) (DPGA) and the broader community. The DPG Standard is an open project and therefore [open to contribution](standard.md). The DPGA supports the [5 Core Principles of OpenStand](openstand.md) in the development of the DPG Standard. We invite anyone who uses and benefits from the DPG Standard to [join our growing list of endorsers](endorsement.md). 
+The DPG Standard establishes a baseline that must be met in order to earn recognition as a digital public good by the [Digital Public Goods Alliance](https://digitalpublicgoods.net) (DPGA) and the broader community. The DPG Standard is an open project and therefore [open to contribution](standard.md). The DPGA supports the [5 Core Principles of OpenStand](openstand.md) in the development of the DPG Standard.
 
 ## 🔎 Current Version
 
-[The DPG Standard](standard.md) is currently at version 1.1.4, published on Jan. 29, 2021; view the [changelog](https://github.com/DPGAlliance/DPG-Standard/blob/master/CHANGELOG.md).
+[The DPG Standard](standard.md) is currently at version 1.1.6, published on Sep. 4, 2024; view the [changelog](https://github.com/DPGAlliance/DPG-Standard/blob/master/CHANGELOG.md).
 
 ## ✅ Application of the DPG Standard
 
-We encourage creators, maintainers, funders, implementers, and consumers to use this standard to recognize, assess, and support digital public goods. The standard is operationalized through a [questionary](https://app.digitalpublicgoods.net/form) that is required as part of the assessment process. We maintain a list of digital public goods that meet the DPG Standard described above on [our registry](https://digitalpublicgoods.net/registry). Projects are reviewed annually and archived if they do not continue to meet the Standard, as per our [archiving policy](archiving.md).
+We encourage creators, maintainers, funders, implementers, and consumers to use this standard to recognize, assess, and support digital public goods. The standard is operationalized through a [questionary](https://app.digitalpublicgoods.net/form) that is required as part of the assessment process. We maintain a list of digital public goods that meet the DPG Standard described above on [our registry](https://digitalpublicgoods.net/registry). Projects are reviewed annually and archived if they do not continue to meet the Standard, as per our [review policy](https://github.com/DPGAlliance/dpg-resources/blob/main/docs/dpg-review-policy.md).
 
-![Vetting Process](docs/process.svg)
+![DPG Application Review Policy](https://github.com/DPGAlliance/dpg-resources/blob/main/docs/assets/dpg-review-flow.png)
 
-We apply the DPG Standard to projects that have either been [nominated directly](https://app.digitalpublicgoods.net/form) or have been pulled together from partnership databases. Projects that are submitted to our platform will undergo three stages of review to ensure they meet the requirements set in the DPG Standard. As a project undergoes various reviews it will move from **nominee** to a fully reviewed **digital public good**. 
-
-Documentation submitted by candidates is transparently displayed on GitHub and can be [viewed here](https://github.com/unicef/publicgoods-candidates/pulls). If a project meets the DPG Standard it will be officially considered a digital public good and will appear as such in the DPG Registry, and may be eligible for additional recognition and support.
-
-## 👍 Endorsements
-
-The DPG Standard is endorsed by [a growing list](endorsement.md) of open source, open content, and open data advocacy and advancement experts. Endorsement means agreement with the DPG Standard set through the indicators, and a willingness to have your name and title publicly listed as having contributed to and endorsing the DPG Standard.
-
-Add your endoresment by editing the [file](endorsement.md), and submitting a Pull Request or filling out [this form](https://forms.gle/knVvbv4mLfxkHtFS8).
+We apply the DPG Standard to projects that have been [nominated directly](https://app.digitalpublicgoods.net/form). Solutions submitted to our platform will undergo two stages of review to ensure they meet the requirements set in the DPG Standard. As a project undergoes various reviews it will move from **nominee** to a fully reviewed **digital public good**. If a project meets the DPG Standard it will be officially considered a digital public good and will appear as such in the DPG Registry, and may be eligible for additional recognition and support.
 
 ## 🤗 Code of Conduct
 
@@ -42,7 +34,7 @@ At the DPGA, we envision a growing community of contributors and stakeholders ar
 
 ## 🙏 Acknowledgements
 
-Thank you to all the individuals that contributed to and [endorsed](endorsement.md) the DPG Standard, as well as well as to the participants of the **Early Grade Reading Community of Practice**. We also thank the following organizations: UNICEF,iSPIRT, Government of Sierra Leone, Government of Norway, and the DPGA Secretariat.
+Thank you to all the individuals who contributed to the DPG Standard, as well as to the participants of the **Early Grade Reading Community of Practice**. We also thank the following organizations: UNICEF, iSPIRT, the Government of Sierra Leone, the Government of Norway, and the DPGA Secretariat.
 
 *Image Credit: [Badge](https://thenounproject.com/search/?q=seal+of+approval&i=32270) by André Luiz from [the Noun Project](http://thenounproject.com/), released under a CC license.*
 
